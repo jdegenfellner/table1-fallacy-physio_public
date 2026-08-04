@@ -1,0 +1,388 @@
+record_id,journal,year,status,eligible,exclude_reason,baseline_testing,testing_form,n_vars_tested,n_vars_significant,n_randomised,coder,verified_by_human,notes
+ArchPh_39009331,Arch Phys Med Rehabil,2024,ok,True,,True,tabular,6,0,50,auto,False,"Table 1 P column (Age .519, BMI .329, etc.)"
+ArchPh_35533737,Arch Phys Med Rehabil,2022,ok,True,,True,both,4,0,40,auto,False,'no significant difference...(P>.05)' + Table 1 P Value col
+JPhysi_26093810,J Physiother,2015,ok,True,,False,none,0,0,46,auto,False,Table 1 no P column; 'did not differ' is about OUTCOMES not baseline
+JPhysi_26092388,J Physiother,2015,ok,False,protocol,,,,,157,auto,False,study protocol for an RCT
+Muscul_32861358,Musculoskelet Sci Pract,2020,ok,True,,True,tabular,10,2,65,auto,False,Table 2 Sig. col + 'baseline...revealed differences (p<0.05) in medical treatment and working situation'
+ArchPh_28526481,Arch Phys Med Rehabil,2017,ok,True,,False,none,0,0,130,auto,False,UNCERTAIN: no baseline char comparison seen; randomiser blind to demographics; verify
+Muscul_32932051,Musculoskelet Sci Pract,2020,ok,False,design,,,,,70,auto,False,"FLAG: feasibility/measurement study of SAMP test (weight conditions), not a physio intervention RCT"
+JPhysi_37277290,J Physiother,2023,ok,False,secondary,,,,,255,auto,False,secondary causal mediation analysis of a 4-arm RCT
+ArchPh_26718237,Arch Phys Med Rehabil,2016,ok,True,,True,both,6,0,50,auto,False,"Table 1 P col (Age .41 etc.) + 'compare...at baseline, Fisher exact/Wilcoxon'"
+ArchPh_28652066,Arch Phys Med Rehabil,2017,ok,True,,True,tabular,6,0,30,auto,False,"Table 1 'Characteristics of cohorts' P col (Age .87, BMI .11, dominant side .07)"
+JPhysi_31204294,J Physiother,2019,ok,True,,False,none,0,0,70,auto,False,BORDERLINE: Table 2 mostly no P; 'baseline characteristics...were similar' bare; IPAQ subtable shows 0.071/0.293
+ArchPh_30315763,Arch Phys Med Rehabil,2019,ok,True,,True,both,6,0,50,auto,False,'Student t/chi-square used to assess significant baseline differences' + Table 1 P col
+ArchPh_27623523,Arch Phys Med Rehabil,2017,ok,True,,True,narrative,5,0,97,auto,False,"'characteristics...compared using 1-way ANOVA...chi-square'; Table 1 no P shown -> sig unknown, flag"
+Muscul_33582621,Musculoskelet Sci Pract,2021,ok,True,,True,both,8,0,34,auto,False,"Table 2 P value col + 'no significant differences in age, sex, BMI... (p>0.05)'"
+Muscul_34872042,Musculoskelet Sci Pract,2022,ok,True,,False,none,0,0,59,auto,False,feasibility 3-arm; Table 2 descriptive no P; no baseline test claim
+JPhysi_30217412,J Physiother,2018,ok,True,,False,none,0,0,46,auto,False,"Table 1 no P; 'longer disease duration' descriptive imbalance, no test"
+ArchPh_31926142,Arch Phys Med Rehabil,2020,ok,False,design,,,,,27,auto,False,cluster randomized crossover trial
+ArchPh_35430239,Arch Phys Med Rehabil,2022,ok,False,non_physio,,,,,15,auto,False,"FLAG: assistive-tech pillbox for medication adherence, not a physiotherapy intervention"
+JPhysi_30581138,J Physiother,2019,ok,True,,False,none,0,0,131,auto,False,Table 1 Exp/Con no P column; no baseline test claim
+ArchPh_37690740,Arch Phys Med Rehabil,2024,ok,False,non_physio,,,,,120,auto,False,FLAG: caregiver blended psychosocial care; arm baseline 'well-balanced' bare; sig test was completers-vs-dropouts
+Muscul_32871529,Musculoskelet Sci Pract,2020,ok,True,,True,narrative,1,1,44,auto,False,UNCERTAIN: lab RCT mobilization; 'significant baseline difference...ANCOVA performed' (downstream=appropriate adjustment); baseline diff on outcome var
+ArchPh_33453192,Arch Phys Med Rehabil,2021,ok,True,,True,tabular,4,0,32,auto,False,"Table 1 P col: age .174, sex .162, BMI .647, duration .221 (all ns); n unclear flag"
+Muscul_37926065,Musculoskelet Sci Pract,2023,ok,True,,False,none,0,0,75,auto,False,POWER pilot; Table 3 All/Exp/Con no P column; no baseline test claim
+ArchPh_25450124,Arch Phys Med Rehabil,2015,ok,False,secondary,,,,,126,auto,False,"secondary analysis of PRISMS antidepressant RCT (non-physio, multivariable QOL)"
+ArchPh_37717685,Arch Phys Med Rehabil,2024,ok,True,,False,none,0,0,60,auto,False,"PFP edu+exercise; Table 2 no P; fig p's are outcomes (§ vs baseline, ‡ between groups)"
+Muscul_36732139,Musculoskelet Sci Pract,2023,ok,True,,True,narrative,6,0,71,auto,False,"'At baseline, there was no significant difference between the groups (p>0.05)' (baseline outcome values)"
+ArchPh_25842051,Arch Phys Med Rehabil,2015,ok,True,,False,none,0,0,71,auto,False,VR vestibular; Table 1 no P; ANCOVA adjusts baseline but no baseline sig test claim
+ArchPh_36351485,Arch Phys Med Rehabil,2023,ok,False,secondary,,,,,80,auto,False,observational analysis of self-scheduling within one RCT arm (k-means profiles)
+ArchPh_30055163,Arch Phys Med Rehabil,2019,ok,True,,True,tabular,6,2,40,auto,False,"DOWNSTREAM: Table 1 P col, age p=.001 & duration sig -> 'we adjusted by age and stroke duration' (selective_posthoc_adjustment)"
+ArchPh_29524398,Arch Phys Med Rehabil,2018,ok,False,design,,,,,23,auto,False,randomized controlled crossover trial (COPD FES)
+Physio_32026826,Physiotherapy,2020,ok,False,design,,,,,22,auto,False,randomised crossover trial (CF nebulisation)
+Muscul_36948043,Musculoskelet Sci Pract,2023,ok,False,secondary,,,,,250,auto,False,"prediction-model development/validation (cohort+RCT data), not primary RCT"
+ArchPh_25839089,Arch Phys Med Rehabil,2015,ok,True,,False,none,0,0,30,auto,False,BORDERLINE: lab RCT ultrasound; 'No group differences were detected in demographic characteristics' (no 'significant'/p shown)
+ArchPh_26903143,Arch Phys Med Rehabil,2016,ok,True,,False,none,0,0,41,auto,False,pilot RCT robotic ankle CP; Table 2/3 outcomes; no baseline test claim
+Muscul_28324697,Musculoskelet Sci Pract,2017,ok,False,secondary,,,,,70,auto,False,dedicated adverse-events report of a prior RCT (Chaibi 2015); baseline 'similar' bare anyway
+ArchPh_33811854,Arch Phys Med Rehabil,2021,ok,False,design,,,,,147,auto,False,"cluster (group-based) RCT, mixed-effect for clustering; note: DID test baseline (narrative, no sig)"
+JPhysi_25922158,J Physiother,2015,ok,False,protocol,,,,,,auto,False,study protocol for an RCT (Back on Track)
+BrJSpo_26702013,Br J Sports Med,2016,ok,False,non_physio,,,,,,auto,False,"ski-equipment biomechanics field experiment (2 skiers, 40 runs), not a clinical physio RCT"
+JOrtho_27011305,J Orthop Sports Phys Ther,2016,ok,True,,False,none,0,0,73,auto,False,BORDERLINE: massage/compression ultramarathon; Table 1 no P; 'Characteristics did not differ among groups' bare; stratified randomisation w/ balanced covariates
+ArchPh_37499853,Arch Phys Med Rehabil,2024,ok,False,design,,,,,80,auto,False,randomized crossover trial (anchor system balance)
+ArchPh_35417758,Arch Phys Med Rehabil,2022,ok,False,non_physio,,,,,19,auto,False,"low-carb/high-protein DIET intervention (nutritional, not physiotherapy)"
+Physio_25749494,Physiotherapy,2015,ok,False,design,,,,,93,auto,False,randomised crossover trial (on-call vs specialist physio delivery)
+Muscul_30342295,Musculoskelet Sci Pract,2018,ok,True,,False,none,0,0,40,auto,False,cervical mobilisation RCT; Table 2 no P column; no baseline test claim (Fig4 logreg is outcome-prediction)
+ArchPh_38723858,Arch Phys Med Rehabil,2024,ok,False,secondary,,,,,114,auto,False,secondary analysis of RCT data (measurement/validity of ShortMAC-F)
+ArchPh_34740596,Arch Phys Med Rehabil,2022,ok,False,design,,,,,2262,auto,False,cluster randomized pragmatic trial (COMPASS); also secondary facility-use/predictor analysis
+ArchPh_31954696,Arch Phys Med Rehabil,2020,ok,True,,True,tabular,8,0,50,auto,False,electroacupuncture vs biofeedback; Table 1 P col (sex .141 etc.) + 'without statistically significant differences between the 2 groups at baseline'
+Muscul_34375855,Musculoskelet Sci Pract,2021,ok,False,secondary,,,,,75,auto,False,economic evaluation + 2-yr follow-up of a prior RCT (secondary)
+ArchPh_26281955,Arch Phys Med Rehabil,2016,ok,False,secondary,,,,,60,auto,False,moderator/mediator/predictor analysis of an RCT (secondary)
+Physio_28801034,Physiotherapy,2018,ok,True,,True,narrative,6,0,114,auto,False,IPSU pelvic floor estim; suppl baseline tables 'comparable...no significant differences noted'
+ArchPh_31247165,Arch Phys Med Rehabil,2019,ok,True,,True,both,6,0,87,auto,False,'At baseline...not different between the groups (table 1)'; dropout HADS p=.02 is completers-vs-dropouts (not arm)
+JPhysi_36257876,J Physiother,2022,ok,False,design,,,,,2039,auto,False,"online 2x2 vignette experiment (perceived need for surgery), not a physio intervention trial"
+ArchPh_26551230,Arch Phys Med Rehabil,2016,ok,False,non_physio,,,,,38,auto,False,"FLAG: CBT coping-skills vs peer support (psychological intervention); note: DID test baseline, BSI-18 sig p=.021"
+Muscul_29414757,Musculoskelet Sci Pract,2018,ok,False,secondary,,,,,200,auto,False,secondary analysis of a cluster RCT; note: tested baseline (* p<.05 several) + adjusted for age/pain
+Muscul_37572618,Musculoskelet Sci Pract,2023,ok,True,,True,narrative,6,0,,auto,False,PNE+telerehab CTS; 'Baseline differences between groups compared using Chi-square/independent t-test/Mann-Whitney'; n unclear flag
+ArchPh_34090854,Arch Phys Med Rehabil,2022,ok,True,,True,both,8,1,72,auto,False,DOWNSTREAM: 'Chi-square/t-test for baseline differences'; education p=.003 -> checked TAI-Q by education
+BrJSpo_31088784,Br J Sports Med,2020,ok,False,design,,,,,2766,auto,False,cluster randomised trial (soccer headgear concussion); equipment injury-prevention
+ArchPh_32918907,Arch Phys Med Rehabil,2021,ok,False,secondary,,,,,43,auto,False,"secondary analysis of 2 RCTs; note: cadence p=.02 baseline, baseline 6MWT dissimilar"
+ArchPh_26763947,Arch Phys Med Rehabil,2016,ok,True,,True,tabular,5,0,55,auto,False,"leg-press vs physiotherapy TKA; Table 1 P col (Age .06, Height .25...) + 'no significant differences at baseline'"
+ArchPh_33819489,Arch Phys Med Rehabil,2021,ok,True,,True,tabular,6,0,120,auto,False,Kinesio taping CLBP 3-arm; Table 1 ANOVA P col (Age P=.26 etc.) + 'no statistically...relevant differences'
+Physio_36242928,Physiotherapy,2022,ok,True,,True,narrative,6,2,129,auto,False,DOWNSTREAM: NIPPER pilot; 'baseline characteristics compared to identify covariate imbalances'; respiratory comorbidity & FCI sig -> adjusted
+JPhysi_27964962,J Physiother,2017,ok,False,protocol,,,,,,auto,False,protocol for an RCT (community ambulation hip fracture)
+ArchPh_38350494,Arch Phys Med Rehabil,2024,ok,False,secondary,,,,,60,auto,False,secondary analysis of an RCT; Table 1 'similar across groups' bare
+ArchPh_28193533,Arch Phys Med Rehabil,2017,ok,True,,True,tabular,4,0,32,auto,False,"dual-mode brain stim PD; Table 1 P col (sex .716, age .947...) + 'no significant difference in baseline characteristics'"
+ArchPh_39147008,Arch Phys Med Rehabil,2024,ok,False,mediation,,,,,128,auto,False,longitudinal mediation analysis (dry needling mechanisms)
+Muscul_37331257,Musculoskelet Sci Pract,2023,ok,False,secondary,,,,,100,auto,False,exploratory secondary analysis of an RCT (predictors of treatment effect)
+Physio_36266133,Physiotherapy,2023,ok,True,,False,none,0,0,47,auto,False,AERO feasibility RCT exercise adherence; Table 1 Usual Care/AERO no P column; no baseline test claim
+BrJSpo_32796016,Br J Sports Med,2021,ok,False,non_physio,,,,,510,auto,False,"shoe-patch (equipment) ankle-sprain prevention; NOTE good practice: 'no baseline hypothesis testing was undertaken, as suggested by CONSORT'"
+JPhysi_35396175,J Physiother,2022,ok,True,,False,none,0,0,16,auto,False,supervised vs home exercise GBS; Table 1 Exp/Con no P column; no baseline test claim
+JPhysi_26320838,J Physiother,2015,ok,False,protocol,,,,,,auto,False,protocol for an RCT (THE LO study)
+Muscul_32217274,Musculoskelet Sci Pract,2020,ok,True,,False,none,0,0,60,auto,False,fibular reposition taping; Table 1 no P; 'no differences between study groups in demographic characteristics' bare; ANCOVA = outcomes
+ArchPh_33460575,Arch Phys Med Rehabil,2021,ok,True,,False,none,0,0,26,auto,False,"UNCERTAIN: unilateral strength training stroke; snippet shows outcome tables (P within/between), no clear baseline char comparison -> verify"
+ClinRe_33233946,Clin Rehabil,2021,ok,True,,True,narrative,6,0,48,auto,False,PEP cardiac surgery 3-arm; 'Baseline characteristics between groups compared using Kruskal-Wallis/ANOVA/Pearson chi-square'
+BrJSpo_31227493,Br J Sports Med,2020,ok,False,secondary,,,,,321,auto,False,trial-based economic evaluation / secondary analysis (ESCAPE)
+JPhysi_27323934,J Physiother,2016,ok,True,,False,none,0,0,33,auto,False,exercise+advice distal radial fracture; Table 2 no P; 'similar at baseline' bare
+BrJSpo_32878869,Br J Sports Med,2021,ok,True,,False,none,0,0,185,auto,False,BORDERLINE: custom insoles 3-arm plantar heel pain; Table 1 no P; no baseline test claim
+BrJSpo_35168957,Br J Sports Med,2022,ok,True,,False,none,0,0,763,auto,False,"tele-exercise COVID; Table 1 no P; mixed model 'corrected for baseline differences' (adjustment, not test); balanced randomisation"
+Muscul_39241692,Musculoskelet Sci Pract,2024,ok,True,,False,none,0,0,30,auto,False,education+exercise ankle OA feasibility; Table 1=feasibility criteria; 'similar between groups at baseline' bare
+BrJSpo_36717214,Br J Sports Med,2023,ok,False,design,,,,,269,auto,False,two-arm cluster RCT (judo injury prevention)
+Physio_30318128,Physiotherapy,2019,ok,True,,False,none,0,0,36,auto,False,wax bath+hand exercise SSc; Table 1 no P; 'no difference in baseline characteristics' bare
+Muscul_34147954,Musculoskelet Sci Pract,2021,ok,True,,True,both,4,0,60,auto,False,"SCM stretch+massage; Table 2 p col (age .2, BMI .9...) + 'chi-square/t-test for baseline comparisons... no significant difference'"
+BrJSpo_37879858,Br J Sports Med,2023,ok,False,secondary,,,,,121,auto,False,secondary analysis of DREAM RCT (2-yr MRI structural outcomes)
+ArchPh_33338463,Arch Phys Med Rehabil,2021,ok,False,secondary,,,,,60,auto,False,post hoc secondary analysis (corticosteroid injection tendon elasticity); also pharmacological
+ArchPh_30267667,Arch Phys Med Rehabil,2019,ok,True,,True,both,8,1,33,auto,False,DOWNSTREAM: 'independent t test...differences between groups at baseline'; CoP total velocity sig -> ANCOVA with pretest covariate
+Muscul_36577592,Musculoskelet Sci Pract,2023,ok,True,,False,none,0,0,66,auto,False,BORDERLINE: Tubigrip vs belt RA diastasis (support garment); Table 1 no P; 'no sig diff at baseline' is delivery-type subgroup not arm
+ArchPh_37730193,Arch Phys Med Rehabil,2024,ok,False,secondary,,,,,124,auto,False,secondary cost-effectiveness analysis of an RCT (HIIT vs MISS); 'similar' bare
+ArchPh_35090887,Arch Phys Med Rehabil,2022,ok,True,,False,none,0,0,60,auto,False,BORDERLINE: electrical dry needling +CSI vs CSI; Table 2 no P; 'similar in the 2 groups' bare
+Physio_32026827,Physiotherapy,2020,ok,False,protocol,,,,,,auto,False,"intervention development/implementation paper (GRASP), not a results RCT"
+ArchPh_28690076,Arch Phys Med Rehabil,2017,ok,False,secondary,,,,,1643,auto,False,secondary analysis of paracetamol LBP trial (also pharmacological)
+Muscul_38805905,Musculoskelet Sci Pract,2024,ok,True,,True,narrative,5,0,42,auto,False,online exercise+ergonomics posture; 'ANOVA...no significant difference in demographic variables (P>0.05)'
+Physio_26111989,Physiotherapy,2016,ok,True,,True,tabular,6,0,39,auto,False,"WBVT+QSE knee OA; Table 1 P-value col (Age .866, Sex .068, BMI .530...)"
+PhysTh_34473304,Phys Ther,2021,ok,False,predictor,,,,,33,auto,False,predictor/response analysis of STAR RCT (multivariable regression)
+JPhysi_38902195,J Physiother,2024,ok,True,,False,none,0,0,99,auto,False,Mulligan MT+exercise cervicogenic headache 3-arm; Table 1 no P column; no baseline test claim
+ArchPh_32976844,Arch Phys Med Rehabil,2021,ok,False,design,,,,,18,auto,False,randomized crossover study (microprocessor KAFO orthosis)
+ArchPh_26452718,Arch Phys Med Rehabil,2016,ok,False,non_physio,,,,,44,auto,False,"FLAG: resource facilitation = vocational rehabilitation, not physiotherapy; note: DID test ('no sig diff P>.05') + VIQ baseline diff -> GEE adjustment (downstream)"
+ArchPh_31336101,Arch Phys Med Rehabil,2019,ok,True,,False,none,0,0,18,auto,False,"UNCERTAIN: mHealth wheelchair skills feasibility; snippet shows outcomes only, no baseline table -> verify"
+ArchPh_30796919,Arch Phys Med Rehabil,2019,ok,True,,False,none,0,0,96,auto,False,specialized PT cervical dystonia; Table 1 SPT/RPT no P; shown p's are OUTCOMES (SF-36 .046)
+Physio_30862384,Physiotherapy,2019,ok,True,,True,tabular,4,0,24,auto,False,"TTNS vs PTNS OAB; Table 1 P-value col (age .437, BMI .941...) + 'No significant differences between groups'"
+ArchPh_34283997,Arch Phys Med Rehabil,2021,ok,True,,False,none,0,0,300,auto,False,12-mo home exercise frailty; Table 2 no P column; no baseline test claim
+JPhysi_27008910,J Physiother,2016,ok,True,,False,none,0,0,70,auto,False,Hands On hand rehab SCI; Table 1 no P; 'no clear between-group differences at baseline' bare
+Physio_27615515,Physiotherapy,2017,ok,False,protocol,,,,,,auto,False,protocol for a feasibility RCT (GAMEBACK)
+Muscul_34022750,Musculoskelet Sci Pract,2021,ok,False,design,,,,,37,auto,False,"randomized experimental QST measurement study (Windup vs Sumsquare), not a physio intervention trial"
+ClinRe_38409798,Clin Rehabil,2024,ok,True,,False,none,0,0,141,auto,False,UNCERTAIN: PA-on-prescription hip/knee OA; Table 1 shows 'Randomised n=141' col; no clear baseline test claim in snippet -> verify
+JPhysi_32291223,J Physiother,2020,ok,True,,False,none,0,0,67,auto,False,MWM+exercise distal radius fx; Table 1 Exp/Con/Total no P; ANCOVA baseline-as-covariate (adjustment not test)
+JPhysi_32291222,J Physiother,2020,ok,True,,False,none,0,0,105,auto,False,education+splint+exercise CTS; Table 3 no P; 'groups were comparable at baseline' bare
+ArchPh_26026580,Arch Phys Med Rehabil,2015,ok,False,design,,,,,13,auto,False,crossover design + ramelteon (drug); note: 'comparisons between groups at baseline nonsignificant' (tested) but excluded
+BrJSpo_36316115,Br J Sports Med,2023,ok,False,design,,,,,502,auto,False,cluster-randomised trial (football injury prevention)
+ClinRe_30974955,Clin Rehabil,2019,ok,True,,False,none,,,,auto,False,"UNCERTAIN: FES vs AFO foot drop MS RCT; snippet=outcomes/discussion only, no baseline table visible -> verify; n unclear"
+ArchPh_36773795,Arch Phys Med Rehabil,2023,ok,False,correspondence,,,,,,auto,False,"Response to Letter to the Editor (journal type 'cor'), not an RCT"
+ArchPh_28705551,Arch Phys Med Rehabil,2017,ok,True,,True,tabular,4,0,27,auto,False,"resistance training PD; Table 1 P col (sex .49, age .27, BMI .51) across PDT/PDC/HC (HC=reference)"
+ArchPh_28947166,Arch Phys Med Rehabil,2018,ok,True,,False,none,0,0,20,auto,False,isokinetic strengthening stroke; Table 1 no P; 'baseline characteristics were comparable' bare
+ArchPh_38750715,Arch Phys Med Rehabil,2024,ok,True,,True,narrative,6,0,42,auto,False,VR neglect 3-arm; Table 1 no P col but 'No significant differences were observed in variables...at baseline'
+BrJSpo_30279219,Br J Sports Med,2019,ok,False,secondary,,,,,,auto,False,secondary analysis of a cluster-RCT (11+ Kids injury prevention)
+ArchPh_32004517,Arch Phys Med Rehabil,2020,ok,True,,False,none,0,0,102,auto,False,COMMENCE pain education+exercise; Table 1 no P; t/chi-square was completers-vs-dropouts not arm-vs-arm
+BrJSpo_32917672,Br J Sports Med,2021,ok,False,design,,,,,130,auto,False,"three-country cluster RCT (antidoping coach education, non-physio); 'did not test for baseline differences (CONSORT)'"
+Physio_38244486,Physiotherapy,2024,ok,False,design,,,,,32,auto,False,"randomised crossover trial (cryocompression skin temp, healthy volunteers)"
+ArchPh_36649912,Arch Phys Med Rehabil,2023,ok,False,correspondence,,,,,,auto,False,"Letter to the Editor (journal type 'cor'), not an RCT"
+Muscul_39520770,Musculoskelet Sci Pract,2024,ok,False,design,,,,,23,auto,False,randomized crossover study (neck muscle vibration)
+JPhysi_37286390,J Physiother,2023,ok,True,,False,none,0,0,70,auto,False,curl-up exercises diastasis recti; Table 1 Total/Exp/Con no P; no baseline test claim
+ArchPh_32084347,Arch Phys Med Rehabil,2020,ok,True,,False,none,0,0,61,auto,False,UNCERTAIN: exercise dementia strength vs aerobic; Table 1 no P column visible; no baseline test claim -> verify
+ClinRe_27470470,Clin Rehabil,2017,ok,True,,False,none,,,,auto,False,"Reach-to-Grasp pilot stroke; 'balanced'/'similar' bare, median ARAT higher described but no test/p; n unclear flag"
+JPhysi_29602750,J Physiother,2018,ok,True,,False,none,0,0,72,auto,False,SMART sternal precautions; Table 1 Exp/Con no P; no baseline test claim
+JOrtho_25627150,J Orthop Sports Phys Ther,2015,ok,False,design,,,,,15,auto,False,randomized crossover laboratory study (ankle destabilization EMG)
+ArchPh_26002204,Arch Phys Med Rehabil,2015,ok,True,,True,tabular,10,1,57,auto,False,balance training fibromyalgia; Table 1+2 P cols; BDI p=.02 (sig baseline diff)
+ArchPh_38851554,Arch Phys Med Rehabil,2024,ok,False,non_physio,,,,,29,auto,False,"FLAG: occupational performance coaching (OT, not physio); note DID test (Table 1 P col, 'no sig differences at baseline')"
+Physio_32026839,Physiotherapy,2020,ok,False,design,,,,,16,auto,False,"randomised crossover trial (cryotherapy ice, healthy women, lab)"
+JOrtho_32857944,J Orthop Sports Phys Ther,2021,ok,True,,False,none,0,0,145,auto,False,UNCERTAIN: spinal manip+electrical dry needling SAPS; Table 2 baseline no P visible -> verify
+ArchPh_29307812,Arch Phys Med Rehabil,2018,ok,True,,True,both,4,0,150,auto,False,"neurodynamic vs sham CTS; Table 1 P col (sex .91, age .21...) + 'baseline assessment revealed no intergroup differences (P>.05)'"
+BrJSpo_30042140,Br J Sports Med,2019,ok,False,non_physio,,,,,356,auto,False,"MRI referral value in general practice (diagnostic, not physiotherapy); 'adjusted for baseline differences >=10%' (SMD-like)"
+ArchPh_25721551,Arch Phys Med Rehabil,2015,ok,True,,True,narrative,6,0,19,auto,False,tDCS+BCI robotic stroke; 'ANOVA to examine demographic and baseline group differences'; ANCOVA adjusts baseline (downstream)
+ArchPh_34228956,Arch Phys Med Rehabil,2022,ok,False,secondary,,,,,,auto,False,secondary cost-effectiveness analysis of pilot+RCT (HIT stroke)
+JOrtho_27477254,J Orthop Sports Phys Ther,2016,ok,True,,False,none,0,0,30,auto,False,ESWT+isokinetic exercise SAIS; Table 1 ESWT/ESWT+IE no P; no baseline test claim
+Physio_38875842,Physiotherapy,2024,ok,True,,False,none,0,0,74,auto,False,supervised physio vs home exercise DRF; Table 1 no P; no baseline test claim
+ClinRe_32757636,Clin Rehabil,2020,metadata_screened,False,design,,,,,,human,True,"USER-FLAGGED: PubMed RCT-tag false positive; correlation/measurement study (3 pain tools), not a treatment RCT, no Table 1"
+Muscul_31739206,Musculoskelet Sci Pract,2020,ok,True,,True,narrative,3,0,24,auto,False,commercial vs custom wrist orthosis CTS pilot; 'to test whether groups different at baseline...t-test/Fisher'; 'no statistical differences'
+Physio_34555671,Physiotherapy,2021,ok,True,,False,none,0,0,36,auto,False,UNCERTAIN: Rocktape vs sham KOA; snippet=outcomes; baseline table not visible -> verify
+ArchPh_34174225,Arch Phys Med Rehabil,2021,ok,True,,True,narrative,6,0,20,auto,False,exoskeleton training stroke pilot; 'Baseline data compared using independent-samples t tests and Fisher exact'
+Muscul_36370624,Musculoskelet Sci Pract,2022,ok,False,measurement_validity,,,,,140,auto,False,"inter-rater reliability + validity of neck movement control tests, not an RCT"
+ArchPh_37582475,Arch Phys Med Rehabil,2023,ok,True,,True,narrative,3,0,20,auto,False,Negami AR neglect; 'age/sex/post-stroke interval did not differ significantly (P=.92/.33/.4)'
+JOrtho_29607766,J Orthop Sports Phys Ther,2018,ok,True,,False,none,0,0,24,auto,False,"UNCERTAIN: physioFIRST FAI pilot; JOSPT, no baseline P visible in snippet -> verify"
+JPhysi_36526555,J Physiother,2023,ok,True,,False,none,0,0,52,auto,False,exercise flat foot; Table 3 no P; 'groups were comparable at baseline' bare
+PhysTh_25929529,Phys Ther,2015,ok,False,secondary,,,,,135,auto,False,subgroup/moderator analysis (kinesiophobia) of an RCT
+PhysTh_27417167,Phys Ther,2017,ok,False,protocol,,,,,,auto,False,study protocol (DPN lifestyle/diet intervention)
+Muscul_31655314,Musculoskelet Sci Pract,2020,ok,True,,False,none,0,0,619,auto,False,UNCERTAIN: STONE massage/exercise neck 4-arm; Table 1 no P visible -> verify
+ArchPh_37209934,Arch Phys Med Rehabil,2023,ok,True,,False,none,0,0,47,auto,False,miWe wheelchair simulator; Table 1 no P; 'relatively well balanced except...' bare descriptive imbalance
+ArchPh_32673652,Arch Phys Med Rehabil,2020,ok,True,,True,narrative,5,0,32,auto,False,"positional release TTH; 'no significant differences between groups in sex, age (P=.88), weight (.85), height (.77), MTrPs (.80)'"
+JOrtho_31443627,J Orthop Sports Phys Ther,2020,ok,False,secondary,,,,,222,model,False,exploratory secondary/subgroup (Pilates CPR) analysis; not primary RCT
+ArchPh_28342829,Arch Phys Med Rehabil,2017,ok,True,,True,narrative,,0,158,model,False,narrative 'no significant differences between groups in demographics/injury... (table 1)'
+ArchPh_26150167,Arch Phys Med Rehabil,2015,ok,True,,False,none,0,0,14,model,False,"pilot RCT N=14; baseline table no P, no test claim"
+Physio_32707289,Physiotherapy,2020,ok,True,,True,text,2,0,42,model,False,crossover RCT; baseline PFM tone P=0.244 & UI P=0.703 reported in text
+Physio_28818451,Physiotherapy,2017,ok,False,secondary,,,,,,model,False,isotemporal substitution secondary analysis of Health Survey for England; not RCT
+ArchPh_32861668,Arch Phys Med Rehabil,2021,ok,False,design,,,,,680,model,False,pseudorandomized/quasi before-after; not a true RCT (baseline cf table2 present)
+ArchPh_28279661,Arch Phys Med Rehabil,2017,ok,True,,False,none,0,0,40,model,False,"pilot RCT knee OA balance; baseline table no P, no test claim"
+PhysTh_25212521,Phys Ther,2015,ok,False,design,,,,,,model,False,prospective cohort + qualitative interviews; not RCT
+Physio_33316867,Physiotherapy,2021,ok,False,design,,,,,,model,False,exercise-programme development paper (SPeEDy); not a trial results report
+JPhysi_26701166,J Physiother,2016,ok,True,,False,none,0,0,46,model,False,"bare 'groups were similar' (no P, no test) -> not testing"
+JOrtho_35802816,J Orthop Sports Phys Ther,2022,ok,False,secondary,,,,,,model,False,exploratory cohort predictors nested in PATHway trial; not RCT
+ArchPh_34425088,Arch Phys Med Rehabil,2022,ok,True,,False,none,0,0,200,model,False,cluster-randomized crossover; Table 1 no baseline P; sig-diff claim is about outcomes not baseline
+Physio_26395209,Physiotherapy,2016,ok,True,,True,table,10,0,51,model,False,"Otago RCT; Table 1 P-column (age0.89,weight0.07...); methods 't-tests/Chi2 to determine baseline differences'; 'no significant baseline differences... successful randomization'"
+JOrtho_36306175,J Orthop Sports Phys Ther,2022,ok,False,secondary,,,,,204,model,False,exploratory mediation/moderation analysis of 3-arm RCT; not primary trial report
+BrJSpo_36878666,Br J Sports Med,2023,ok,False,secondary,,,,,121,model,False,subgroup (mechanical-symptom) analysis of DREAM trial; not primary report
+BrJSpo_30131330,Br J Sports Med,2019,ok,False,secondary,,,,,,model,False,cost-effectiveness analysis of 11+Kids cluster RCT; economic secondary analysis
+JPhysi_27298051,J Physiother,2016,ok,False,protocol,,,,,,model,False,protocol for RCT (back school vs brain school)
+ArchPh_25620717,Arch Phys Med Rehabil,2015,ok,False,design,,,,,52,model,False,repeated-measures device evaluation of 3 power-assist wheelchairs; not RCT
+PhysTh_33909896,Phys Ther,2021,ok,True,,False,none,0,0,47,model,False,"stroke weight-shift RCT; Table 1 no P column, no baseline test claim"
+JOrtho_27170524,J Orthop Sports Phys Ther,2016,ok,True,,False,none,0,0,70,model,False,"McKenzie vs MCE LBP RCT; 'groups similar for all baseline variables except symptom length' descriptive, no P/no 'significant'"
+Muscul_35421696,Musculoskelet Sci Pract,2022,ok,True,,False,none,0,0,46,model,False,"neck extensor RCT; bare 'comparable at baseline in terms of age' (means only, no P)"
+JOrtho_27937046,J Orthop Sports Phys Ther,2017,ok,True,,False,none,0,0,120,model,False,"dry needling shoulder RCT; 'no important differences... groups equivalent' descriptive, no P/no 'significant'"
+Muscul_30359870,Musculoskelet Sci Pract,2018,ok,False,design,,,,,31,model,False,within-subject repeated-measures (all 3 conditions per subject); no parallel baseline groups
+Physio_32026820,Physiotherapy,2020,ok,True,,True,table,8,1,70,model,False,"telerehab THR non-inferiority RCT; baseline table P-values (age 0.03 sig, LOS 0.90); methods 'group differences at baseline'"
+BrJSpo_33055132,Br J Sports Med,2021,ok,False,duplicate_infographic,,,,,,model,False,"BJSM Infographic companion of Spraino RCT (full trial = BrJSpo_32796016); not primary report, avoid double-count"
+BrJSpo_33028585,Br J Sports Med,2021,ok,False,duplicate_infographic,,,,,,model,False,"BJSM Infographic (foot mobility/patellofemoral); companion summary, not primary RCT report"
+ArchPh_31715140,Arch Phys Med Rehabil,2020,ok,True,,True,narrative,4,0,20,model,False,"crossover RCT stroke VR; 'no significant differences between groups in age, time since stroke, FMA-UE, BREQ-2 (ANOVA F1,18<2.245; P>.15)'"
+ArchPh_33316225,Arch Phys Med Rehabil,2021,ok,True,,False,none,0,0,36,model,False,"overground robotic MS RCT; baseline Table 2 no P column, no baseline test claim"
+ArchPh_32169459,Arch Phys Med Rehabil,2020,ok,True,,False,none,0,0,111,model,False,aquatic cycling knee OA parallel RCT; Table 1 no P column (P-values only on outcomes)
+ClinRe_33826449,Clin Rehabil,2021,ok,True,,False,none,0,0,,model,False,FES Parkinson feasibility RCT; bare 'groups were well matched for demographics' (no P/no test)
+ArchPh_30075147,Arch Phys Med Rehabil,2019,ok,False,non_physio,,,,,93,model,False,"manualized psychosocial intervention for TBI caregivers (family), not a physiotherapy intervention"
+JPhysi_29903598,J Physiother,2018,ok,False,protocol,,,,,,model,False,trial protocol (cognitive functional therapy vs manual+MCE for cLBP)
+JPhysi_26996096,J Physiother,2016,ok,False,protocol,,,,,,model,False,trial protocol (Whiplash ImPaCT clinical pathway)
+JPhysi_25499650,J Physiother,2015,ok,False,appraisal,,,,,,model,False,J Physiother Appraisal/synopsis (Critically Appraised Paper) of external Tai Chi trial; not original RCT
+ArchPh_38043674,Arch Phys Med Rehabil,2024,ok,False,secondary,,,,,60,model,False,title: Secondary Outcomes of the EFICAN Trial; secondary analysis
+ArchPh_28499657,Arch Phys Med Rehabil,2017,ok,True,,True,narrative,,0,11,model,False,pilot randomized crossover stroke EAMT; 'no statistically significant differences between groups at baseline' (table 1)
+ArchPh_32585169,Arch Phys Med Rehabil,2020,ok,True,,True,table,5,0,60,model,False,"HIIT vs MICT fibromyalgia pilot RCT (3-arm); Table 1 P-column (age .090, height .907, weight .552) all ns"
+ArchPh_33781780,Arch Phys Med Rehabil,2021,ok,True,,True,table,8,0,40,model,False,"chest wall vibration COPD RCT (3-arm); Table 1 P-column, NOTE 'P values represent mean differences between groups at baseline (T0)' all ns"
+PhysTh_28789465,Phys Ther,2017,ok,False,protocol,,,,,396,model,False,"protocol (pragmatic RCT, McKenzie LBP recurrence prevention)"
+Muscul_37141771,Musculoskelet Sci Pract,2023,ok,True,,True,table,6,0,78,model,False,"telerehab NLBP RCT; Table 1 p-column; methods 'to ensure homogeneity between groups at baseline, Student t-test/chi-square used'"
+ArchPh_29777714,Arch Phys Med Rehabil,2018,ok,True,,True,table,6,0,90,model,False,"NMES vs TENS hemiplegic shoulder RCT (3-arm); Table 1 P Value column (age .180, sex .334); ANCOVA used when baseline P significant"
+ArchPh_33556352,Arch Phys Med Rehabil,2021,ok,False,secondary,,,,,320,model,False,title: Secondary Analysis of an RCT (yoga/PT depression-anxiety)
+PhysTh_28789467,Phys Ther,2017,ok,True,,False,none,0,0,63,model,False,"pressure-ulcer ES RCT (3-arm); no baseline P column, no baseline test claim (analysis on relative wound area)"
+JOrtho_39207737,J Orthop Sports Phys Ther,2024,ok,False,secondary,,,,,122,model,False,mixed-methods sub-study (feelings about telerehab) of overarching RCT; not primary trial report
+Physio_29352578,Physiotherapy,2018,ok,True,,False,none,0,0,12,model,False,"feasibility pilot RCT (TOPS LBP prevention); Table 1 single-column overall baseline, no group comparison"
+ArchPh_37467936,Arch Phys Med Rehabil,2023,ok,True,,True,table,6,0,31,model,False,Physio-EndEA endometriosis RCT; Table 1 P Value column; 'bivariate comparisons to detect between-group differences at baseline' chi2/Student
+ArchPh_25316180,Arch Phys Med Rehabil,2015,ok,True,,True,table,3,0,28,model,False,"distal radial fracture, randomly allocated exp/control N=28; Table 1 U & P columns (sex .5, age .57, hand .35); 'no significant difference in baseline pain (U=62.5; P=.23)'"
+JOrtho_28257614,J Orthop Sports Phys Ther,2017,ok,True,,False,none,0,0,46,model,False,dry needling vs cortisone GTPS noninferiority RCT; bare 'Baseline characteristics were similar between groups' (Table 1 no P)
+ArchPh_31830433,Arch Phys Med Rehabil,2020,ok,True,,False,none,0,0,50,model,False,"knee brace PFP RCT; Table 1 reports baseline between-group Mean Difference (95% CI) but NO P-values/no significance claim -> borderline, coded NO per codebook"
+ArchPh_28115072,Arch Phys Med Rehabil,2017,ok,False,secondary,,,,,169,model,False,secondary analysis of SCI RCT (complications prevalence/incidence)
+ArchPh_25448243,Arch Phys Med Rehabil,2015,ok,False,non_physio,,,,,50,model,False,"epidural steroid injection (SESI) vs usual care for LRS; medical/interventional, not physiotherapy; QoL/cost-utility focus"
+JPhysi_35753969,J Physiother,2022,ok,False,secondary,,,,,362,model,False,economic analysis (cost-effectiveness) alongside PFMT RCT; secondary
+Muscul_31989965,Musculoskelet Sci Pract,2020,ok,False,secondary,,,,,619,model,False,cost-effectiveness analysis of STONE 4-arm RCT; secondary
+Physio_27126617,Physiotherapy,2017,ok,True,,True,table,,0,63,model,False,physio functional exercise THR RCT; 'At Week 12 (baseline) no significant difference between groups in either parametric or non-parametric tests (see Table 1)'
+Physio_33131786,Physiotherapy,2021,ok,True,,False,none,0,0,40,model,False,"cervical mobilisation immediate-effects double-blind RCT; Table 4 baseline no P, no test claim"
+ArchPh_28778829,Arch Phys Med Rehabil,2018,ok,False,design,,,,,16,model,False,"within-subject repeated-measures (3 footwear conditions per participant, counterbalanced); no parallel baseline groups"
+ArchPh_35584738,Arch Phys Med Rehabil,2022,ok,True,,False,none,0,0,70,model,False,MS 4-exercise RCT (5 groups); bare 'The 5 groups were similar at baseline (tables 1 and 2)' no P
+Physio_25306231,Physiotherapy,2015,ok,True,,False,none,0,0,112,model,False,"burst/conventional TENS+cryo PPT RCT (7 groups, healthy women); no baseline between-group comparison shown"
+Physio_30269963,Physiotherapy,2019,ok,True,,False,none,0,0,45,model,False,"CRMRF radiofrequency knee OA RCT (3 groups); baseline table no P column, no test claim"
+Physio_29373113,Physiotherapy,2019,ok,True,,True,text,5,0,30,model,False,"therapeutic US 1 vs 3MHz crossover RCT; baseline P-values in text (age P=.785, BMI .591, SBP .333, DBP); 'no differences in baseline diameter... between groups'"
+BrJSpo_28515057,Br J Sports Med,2017,ok,False,secondary,,,,,118,model,False,exploratory prognostic-factor analysis of KANON ACL trial; not primary report
+ClinRe_32914639,Clin Rehabil,2021,ok,False,secondary,,,,,259,model,False,descriptive fidelity/goal-achievement analysis of one arm of RATULS trial; not primary report
+ArchPh_28017706,Arch Phys Med Rehabil,2017,ok,False,design,,,,,38,model,False,within-subject placebo-controlled crossover (TENS/5-kHz/sham all per healthy volunteer); no parallel baseline groups
+PhysTh_32525975,Phys Ther,2020,ok,True,,True,text,,,20,model,False,strength training hemophilia RCT; methods 'Descriptive data of participants at baseline were compared using the unpaired t test'
+JOrtho_33383999,J Orthop Sports Phys Ther,2021,ok,True,,False,none,0,0,77,model,False,dry needling neck sham-controlled RCT; bare 'groups were similar at baseline' (Table 1 no P)
+ArchPh_28634056,Arch Phys Med Rehabil,2017,ok,False,predictor,,,,,278,model,False,prognostic/predictive-model study for ESWT efficacy (plantar fasciitis); not primary RCT comparison
+ArchPh_28202383,Arch Phys Med Rehabil,2017,ok,True,,True,text,,,323,model,False,SAFE falls-prevention PT RCT; methods 'compared baseline characteristics in the 2 groups using chi-square (categorical) and Student t test (continuous)'
+ArchPh_35331719,Arch Phys Med Rehabil,2022,ok,True,,False,none,0,0,75,model,False,"thoracic MET shoulder impingement 3-arm RCT; bare 'mean age, BMI, baseline scores were similar for each group (table 1)' no P"
+ArchPh_25450131,Arch Phys Med Rehabil,2015,ok,False,design,,,,,20,model,False,"within-subject randomized crossover (multipath vs conventional NMES, both sessions per patient); no parallel baseline groups"
+ArchPh_36122608,Arch Phys Med Rehabil,2023,ok,True,,True,table,3,0,18,model,False,"IoT robot crossover stroke; Table 2 'differences in baseline characteristics between the 2 groups' P-column (age .118, time .576); chi2/t-test"
+ArchPh_33217374,Arch Phys Med Rehabil,2021,ok,True,,False,none,0,0,44,model,False,"heel-pain orthotics RCT; 'no clinical difference between the 2 groups... no differences clinically meaningful' (clinical judgment, no P/no sig test)"
+ArchPh_26812182,Arch Phys Med Rehabil,2016,ok,False,non_physio,,,,,9,model,False,"rimabotulinumtoxinB injection for residual-limb hyperhidrosis; pharmacological, not physiotherapy"
+PhysTh_25278336,Phys Ther,2015,ok,False,protocol,,,,,148,model,False,protocol (McKenzie vs placebo cLBP RCT)
+Physio_27569662,Physiotherapy,2017,ok,False,secondary,,,,,235,model,False,complementary/secondary mediation analysis of CABG inspiratory-muscle-training RCT
+ArchPh_37142177,Arch Phys Med Rehabil,2023,ok,False,non_physio,,,,,83,model,False,"TIPS online parent-training (parenting strategies) for caregivers of children with TBI; psychosocial, not physiotherapy"
+ArchPh_38163530,Arch Phys Med Rehabil,2024,ok,True,,True,table,6,0,180,model,False,lateral epicondylitis 2-splint RCT (3-arm); Table 1 baseline P Value column (age .66/.75)
+JPhysi_28939307,J Physiother,2017,ok,True,,False,none,0,0,344,model,False,"FIFA11+ cluster RCT soccer injury; bare 'experimental and control groups were similar in age distribution, level of competition' (Table 2 no P)"
+ArchPh_36261056,Arch Phys Med Rehabil,2023,ok,True,,True,text,,0,139,model,False,nonhemiplegic strength training stroke RCT; methods 'baseline inter-group differences examined via t test/Chi-square'; 'no significant differences (table 1)'
+JOrtho_37795555,J Orthop Sports Phys Ther,2023,ok,False,non_physio,,,,,626,model,False,"BORDERLINE: online diagnostic-label framing experiment (beliefs outcome), no clinical PT intervention delivered; excluded as out-of-scope"
+ArchPh_27789240,Arch Phys Med Rehabil,2017,ok,True,,False,none,0,0,21,model,False,"inflammatory myopathy rehab RCT; Table 1 at inclusion, no baseline P column/no test claim (P-values are outcomes)"
+ArchPh_28279659,Arch Phys Med Rehabil,2017,ok,True,,True,table,5,0,40,model,False,"ICU early rehab liver transplant RCT; Table 2 P column (sex >.99, age .502, weight .275) Fisher/Chi-square"
+ArchPh_26254953,Arch Phys Med Rehabil,2015,ok,True,,False,none,0,0,15,model,False,hand-bike exercise SCI RCT N=15; no explicit baseline test/no P column shown (t-tests appear to be for outcomes) -> UNCERTAIN
+ArchPh_26802969,Arch Phys Med Rehabil,2016,ok,True,,True,table,6,0,106,model,False,"gait-trainer stroke RCT; Table 1 HAS baseline P column (age .505, MMSE .126) YET methods state 'We did not use statistical tests to determine if baseline differences were confounding... not recommended' -- notable self-contradiction, good illustrative case"
+JOrtho_25899215,J Orthop Sports Phys Ther,2015,ok,True,,False,none,0,0,34,model,False,"BORDERLINE: marathon compression-stocking matched-pair randomized (17 pairs); authors label case-control/ecological; matched, no baseline P/test"
+JOrtho_30862274,J Orthop Sports Phys Ther,2019,ok,True,,True,narrative,,0,60,model,False,thoracic thrust manipulation subacromial RCT (3-arm); 'no significant differences between groups in demographic variables (TABLE 2)'
+ArchPh_26360974,Arch Phys Med Rehabil,2015,ok,True,,True,text,4,1,30,model,False,"kinesiology tape ankle RCT; methods 'baseline data between groups compared using independent Student t test'; 'groups did not differ in age/height/weight/CAIT, however difference in sex'"
+JPhysi_25534580,J Physiother,2015,ok,True,,False,none,0,0,203,model,False,oscillating PEP post-surgery RCT; bare 'experimental and control well matched at baseline' (Table 1 no P)
+ArchPh_30076800,Arch Phys Med Rehabil,2018,ok,False,secondary,,,,,162,model,False,secondary analysis (usability/acceptability) of REMOTE-CR cardiac telerehab RCT
+ArchPh_29505744,Arch Phys Med Rehabil,2018,ok,True,,True,text,,,48,model,False,"VR+FES chronic stroke pilot RCT; methods 'for baseline characteristics, Student t/Mann-Whitney + chi-square used for between-group comparisons'"
+JOrtho_27266885,J Orthop Sports Phys Ther,2016,ok,False,design,,,,,,model,False,mechanistic controlled laboratory study (corticospinal excitability after mobilization); not a clinical efficacy RCT
+ArchPh_33617863,Arch Phys Med Rehabil,2021,ok,True,,True,table,6,0,50,model,False,"VR+TOT pediatric hand burns RCT (3-arm); Table 1 P Value column (age .23, sex .99); 'no significant differences... at baseline (P>.05)'"
+JPhysi_29289579,J Physiother,2018,ok,True,,False,none,0,0,80,model,False,"sequential non-pharm labour-pain RCT; Table 1 baseline no P column, no test claim"
+ArchPh_30521781,Arch Phys Med Rehabil,2019,ok,True,,False,none,0,0,60,model,False,"spinal mobilisation w/ leg movement radiculopathy double-blind RCT; Table 1 no P, no baseline test claim"
+Physio_32026829,Physiotherapy,2020,ok,True,,True,text,1,0,41,model,False,WALK30x5 feasibility RCT; 'the groups were not statistically different for mean T6MWT at baseline (P=0.13)'
+ArchPh_31562875,Arch Phys Med Rehabil,2020,ok,True,,False,none,0,0,23,model,False,paraffin+stretch shoulder burn contracture pilot RCT; no baseline P/test claim shown (P-values are outcomes)
+ArchPh_29886075,Arch Phys Med Rehabil,2018,ok,True,,False,none,0,0,64,model,False,high-intensity agility Parkinson RCT (before-after design); UNCERTAIN - Results has a Baseline differences subsection but P-values/claim not visible in snippet -> verify
+Muscul_28219804,Musculoskelet Sci Pract,2017,ok,True,,True,table,,0,44,model,False,neck mobilization CV-response placebo RCT (pain-free); methods 'baseline characteristics compared using independent t tests + chi-squared to assess adequacy of randomization'; Table 1 P
+PhysTh_26023213,Phys Ther,2015,ok,False,protocol,,,,,,model,False,"protocol (internet-based pain coping skills, hip OA)"
+Physio_38875839,Physiotherapy,2024,ok,False,secondary,,,,,123,model,False,title: secondary analysis of data from a multi-arm RCT (shoulder pain prognosis)
+ArchPh_38734047,Arch Phys Med Rehabil,2024,ok,True,,True,table,,0,24,model,False,"hot-cold water immersion stroke pilot RCT; Table 1 P Value column (age .836, sex 1.000); 'no significant differences... at baseline'"
+ArchPh_25562510,Arch Phys Med Rehabil,2015,ok,True,,False,none,0,0,60,model,False,"functional exercise slow-stream rehab RCT; 'At baseline, the SSR group achieved higher scores on BBS/DEMMI/FTSTS' (descriptive imbalance, no P/no sig test)"
+Physio_26712530,Physiotherapy,2016,ok,False,design,,,,,31,model,False,"within-subject randomised crossover (all 3 airway-clearance techniques per patient); single pooled baseline table, no between-group comparison"
+JOrtho_29895234,J Orthop Sports Phys Ther,2018,ok,True,,False,none,0,0,839,model,False,"Run Clever running-injury RCT; Table 1 baseline (S-I/S-V) no P column, no test claim"
+PhysTh_26847007,Phys Ther,2016,ok,False,qualitative,,,,,13,model,False,qualitative content-analysis study (interviews) nested in exercise-depression RCT; not an RCT report
+ArchPh_36933609,Arch Phys Med Rehabil,2023,ok,True,,True,table,3,0,63,model,False,robotic priming stroke preliminary RCT (3-arm); Table 1 Test Statistics/df/P columns; methods 'baseline differences among 3 groups compared using chi-square + 1-way ANOVA'
+ArchPh_32437690,Arch Phys Med Rehabil,2020,ok,True,,True,table,12,1,45,model,False,anodal tDCS MCI RCT; Table 1+2 P columns; baseline CANTAB RVP P=.042 significant -> ANCOVA adjustment 'because significant difference in baseline cognition'
+BrJSpo_38724071,Br J Sports Med,2024,ok,True,,False,none,0,0,325,model,False,"Run RCT hip/core running-injury prevention (3-arm); Table 1 baseline no P column, no test claim"
+JPhysi_31843420,J Physiother,2020,ok,True,,False,none,0,0,96,model,False,"perioperative PFMT POP-surgery RCT; Table 1 baseline (Exp/Con) no P column, no test claim"
+PhysTh_25504487,Phys Ther,2015,ok,True,,True,text,3,0,708,model,False,"children LBP-prevention cluster RCT; 'no significant differences between groups in age (P=.61), sex (P=.39), prior LBP (P=.94)'"
+Physio_31992445,Physiotherapy,2020,ok,True,,False,none,0,0,21,model,False,"graded motor imagery phantom-limb-pain RCT; Table 1 baseline (Exp/Con) no P column, no test claim"
+ArchPh_35337843,Arch Phys Med Rehabil,2022,ok,True,,True,table,5,0,28,model,False,"NMES-during-walking knee pain obesity RCT; Table 1 P Value column (age .53, BMI .47); methods 'baseline characteristics compared between 2 groups using 2-sample t test or Wilcoxon'"
+ArchPh_27666156,Arch Phys Med Rehabil,2017,ok,False,non_physio,,,,,26,model,False,"botulinum toxin vs steroid injections for lateral epicondylalgia; pharmacological/injection, not physiotherapy"
+JPhysi_29605522,J Physiother,2018,ok,False,protocol,,,,,,model,False,protocol (BEST at Home falls-prevention RCT)
+Muscul_33831698,Musculoskelet Sci Pract,2021,ok,True,,True,narrative,,0,54,model,False,dry needling thoracolumbar multifidi double-blind RCT; 'no statistical or substantive differences in demographics between groups at baseline'
+ClinRe_30977398,Clin Rehabil,2019,ok,False,non_physio,,,,,,model,False,"memory (cognitive) rehabilitation after TBI cluster RCT; cognitive/neuropsych rehab, not physiotherapy"
+ArchPh_26070976,Arch Phys Med Rehabil,2015,ok,True,,False,none,0,0,23,model,False,PA-guidelines SCI vascular-health RCT; no baseline P column/no baseline test claim shown
+ArchPh_27702556,Arch Phys Med Rehabil,2017,ok,True,,False,none,0,0,35,model,False,intermittent hypoxia + BWSTT iSCI triple-blind RCT; no baseline P column/no test claim shown (P-values are outcomes)
+JPhysi_35283051,J Physiother,2022,ok,False,commentary,,,,,,model,False,Research Note (S300) methodological guidance on evaluating risk of bias in RCTs; not an original trial
+ArchPh_28284834,Arch Phys Med Rehabil,2017,ok,True,,True,table,5,0,59,model,False,"active cycling subacute stroke RCT; Table 1 P column (Barthel .69, MMSE .29) t/chi2/MWU/Fisher; 'no significant differences in patient characteristics at baseline'"
+ArchPh_28137475,Arch Phys Med Rehabil,2017,ok,False,secondary,,,,,81,model,False,title: Secondary Analysis of an RCT (physical activity after hip fracture)
+ArchPh_27343344,Arch Phys Med Rehabil,2017,ok,True,,False,none,0,0,30,model,False,"BORDERLINE: experimental knee-pain (saline) TENS vs placebo in able-bodied; parallel-group crossover, no baseline comparison shown"
+JPhysi_26386894,J Physiother,2015,ok,True,,False,none,0,0,20,model,False,manual diaphragm release COPD RCT; bare 'the groups were well balanced' (Table 1 no P)
+Muscul_31999615,Musculoskelet Sci Pract,2020,ok,False,secondary,,,,,61,model,False,MCID/clinical-significance secondary analysis of a TMD RCT
+ArchPh_31374191,Arch Phys Med Rehabil,2019,ok,False,secondary,,,,,186,model,False,secondary analysis of intervention arm of LAST stroke RCT (adherence-recovery associations)
+ArchPh_28919191,Arch Phys Med Rehabil,2018,ok,True,,True,text,7,0,68,model,False,"RESTORE yoga cLBP service-members pilot RCT; 'parametric/nonparametric tests assessed baseline group differences; variables P<=.25 considered as covariates'; baseline P-values reported (sex .21, age .27)"
+ArchPh_38971487,Arch Phys Med Rehabil,2024,ok,True,,False,none,0,0,60,model,False,thumb orthosis wearing-regimen TMC OA RCT; bare 'groups were homogeneous at the beginning' (Table 1 no P; P-values are outcomes)
+BrJSpo_38253436,Br J Sports Med,2024,ok,False,secondary,,,,,100,model,False,secondary analysis of high-load vs low-load shoulder RCT (hypermobile shoulders)
+ArchPh_33872573,Arch Phys Med Rehabil,2021,ok,True,,False,none,0,0,28,model,False,negative-pressure massage vs MLD breast-cancer lymphedema pilot RCT; no baseline table/test visible in snippet (outcomes only)
+ArchPh_27771359,Arch Phys Med Rehabil,2017,ok,True,,False,none,0,0,148,model,False,"interferential current + Pilates cLBP RCT; Table 2 baseline no P column, no test claim (P<.05 is intragroup)"
+JPhysi_30926400,J Physiother,2019,ok,True,,False,none,0,0,50,model,False,tablet vs paper exercises carpal-tunnel RCT; bare 'groups had similar baseline scores on all outcome measures' (Table 3 no P)
+ArchPh_31669298,Arch Phys Med Rehabil,2020,ok,False,design,,,,,54,model,False,cross-sectional study of partners of stroke patients (in an RCT); not an RCT report
+ClinRe_30514115,Clin Rehabil,2019,ok,True,,True,narrative,,0,52,model,False,group exercises balance/mobility MCI matched-pairs RCT; 'the two groups did not differ statistically in any of the variables analyzed' (Table 1)
+ArchPh_34214499,Arch Phys Med Rehabil,2021,ok,False,design,,,,,30,model,False,"within-subject randomized crossover (both prosthetic sockets per participant); single pooled baseline table, no between-group comparison; prosthetist-delivered"
+JPhysi_39327170,J Physiother,2024,ok,False,secondary,,,,,492,model,False,pre-planned secondary moderator analysis of RESTORE CFT RCT
+ArchPh_32795562,Arch Phys Med Rehabil,2020,ok,True,,True,text,1,0,40,model,False,"DUALGAIT dual-task Parkinson RCT; methods 'to test for sex differences between groups, a chi-square analysis was used' (baseline group test; limited to sex) -> verify"
+ArchPh_29042172,Arch Phys Med Rehabil,2018,ok,True,,False,none,0,0,80,model,False,"upper-limb rehab lung-transplant RCT; Table 1 baseline (NULP/SULP) no P column, no test claim"
+Physio_29361297,Physiotherapy,2018,ok,False,qualitative,,,,,18,model,False,qualitative phenomenological study (why UKUFF participants crossed over); not an RCT report
+PhysTh_25655878,Phys Ther,2015,ok,False,design,,,,,,model,False,longitudinal observational relationship study (fitness/PA/fatigue in CP children); not an RCT
+ArchPh_29138049,Arch Phys Med Rehabil,2018,ok,True,,True,table,5,0,56,model,False,"pain neurophysiology education + exercise cLBP RCT; Table 1 P column (sex .85, age .12); 'No statistically significant differences in baseline variables between groups'"
+PhysTh_26251480,Phys Ther,2016,ok,False,protocol,,,,,100,model,False,protocol (hyperkyphosis spine-strengthening exercise RCT)
+JOrtho_34784246,J Orthop Sports Phys Ther,2021,ok,True,,True,narrative,,0,76,model,False,coexisting LBP+hip RCT; 'No significant between-group differences were observed at baseline or discharge' (physical-activity classification); Table 1
+ArchPh_39168298,Arch Phys Med Rehabil,2024,ok,True,,True,table,4,0,44,model,False,"Easy-Flex TKA RCT; Table 1 P column (age .244, flexion .869); methods 'baseline clinical differences between groups using independent t tests + chi-square'"
+ClinRe_31789060,Clin Rehabil,2020,ok,False,design,,,,,115,model,False,"cross-sectional analysis of RCT baseline data (correlates of fear of falling, path analysis); Interventions: None; not the trial report"
+PhysTh_25234274,Phys Ther,2015,ok,False,implementation,,,,,20,model,False,"BORDERLINE: cluster RCT of physical therapists (peer-assessment to improve guideline adherence); implementation/professional-behaviour trial, subjects are clinicians not patients -> out of scope"
+JOrtho_39180194,J Orthop Sports Phys Ther,2024,ok,True,,False,none,0,0,65,model,False,"orchestra-musician injury-prevention RCT; Table baseline (Control/Intervention) no P column, no test claim"
+ArchPh_31493382,Arch Phys Med Rehabil,2020,ok,True,,False,none,0,0,34,model,False,motor-skill wheelchair-propulsion older-adults RCT (3-arm); Results has Baseline data subsection but no P/claim visible in snippet -> UNCERTAIN
+JOrtho_25679343,J Orthop Sports Phys Ther,2015,ok,False,design,,,,,,model,False,"within-subject randomized crossover (3 taping conditions per participant, counterbalanced); no parallel baseline groups"
+ArchPh_26340807,Arch Phys Med Rehabil,2015,ok,False,non_physio,,,,,36,model,False,"ultrasound-guided hyaluronic acid vs steroid injection for trigger finger; injection/pharmacological, not physiotherapy"
+Physio_27112096,Physiotherapy,2017,ok,True,,False,none,0,0,30,model,False,"specialist physio FAI pilot RCT; bare 'both groups were similarly matched for age, general health' (Table 1 no P)"
+ArchPh_38281579,Arch Phys Med Rehabil,2024,ok,False,secondary,,,,,52,model,False,"retrospective predictor analysis (white-matter hyperintensities) of an aphasia tDCS RCT cohort; not primary trial, speech/cognition"
+Physio_33153764,Physiotherapy,2021,ok,False,qualitative,,,,,,model,False,mixed-methods/descriptive process study of therapists delivering PDSAFE (interviews); not an RCT report
+Physio_35101723,Physiotherapy,2022,ok,True,,False,none,0,0,60,model,False,"water- vs land-based walking ACL-recon RCT; Table 1 baseline (WBG/LBG) no P column, no test claim"
+JOrtho_26721229,J Orthop Sports Phys Ther,2016,ok,False,design,,,,,40,model,False,"experimental laboratory repeated-measures crossover (mobilization vs cutaneous input 1wk apart, conditioned pain modulation); mechanistic, no parallel baseline groups"
+JOrtho_26110548,J Orthop Sports Phys Ther,2015,ok,False,measurement_validity,,,,,112,model,False,responsiveness/MCIC psychometric comparison of 2 shoulder measures (prospective cohort nested in RCT); not a treatment-comparison RCT report
+JPhysi_26070650,J Physiother,2015,ok,False,protocol,,,,,202,model,False,protocol for a causal mediation analysis of the PREVENT trial
+JPhysi_29289580,J Physiother,2018,ok,False,secondary,,,,,105,model,False,cost-effectiveness analysis of gym- vs home-based maintenance exercise RCT
+Physio_35101724,Physiotherapy,2022,ok,True,,False,none,0,0,32,model,False,neurodynamic intervention MS RCT; bare 'baseline features between groups were similar for all variables' (Table 1 no P)
+PhysTh_25212518,Phys Ther,2015,ok,False,protocol,,,,,343,model,False,protocol (phase II TENS fibromyalgia RCT)
+JOrtho_31905097,J Orthop Sports Phys Ther,2020,ok,True,,False,none,0,0,50,model,False,"cervical HVLAT TMD RCT; 'Baseline variables were similar between groups (Table 1), but HVLAT group had slightly longer duration of symptoms' (descriptive, no P/no significant)"
+ClinRe_36325678,Clin Rehabil,2023,ok,False,secondary,,,,,93,model,False,secondary cost-consequence analysis of botulinum-toxin post-stroke spasticity RCT
+Physio_33785196,Physiotherapy,2021,ok,False,design,,,,,,model,False,discrete-event-simulation economic model of direct-access physiotherapy; not an RCT
+BrJSpo_34598935,Br J Sports Med,2022,ok,False,non_physio,,,,,,model,False,"Champ4Life dietitian-led caloric-reduction/lifestyle weight-loss RCT; nutrition/lifestyle, not a physiotherapy intervention"
+JPhysi_27634158,J Physiother,2016,ok,True,,False,none,0,0,60,model,False,"neurodynamic treatment nerve-related leg pain RCT; Table 1 baseline (Exp/Con) no P column, no test claim"
+JOrtho_29607764,J Orthop Sports Phys Ther,2018,ok,False,protocol,,,,,,model,False,clinical commentary / postoperative rehab protocol for the HIPARTI sham-surgery RCT; not a trial results report
+ArchPh_39033949,Arch Phys Med Rehabil,2024,ok,False,measurement_validity,,,,,86,model,False,content-validity study of CPET in neuromuscular disease using RCT baseline data; Intervention: Not applicable; measurement study
+PhysTh_25592188,Phys Ther,2015,ok,False,design,,,,,48,model,False,within-subject physiological study (cardiovascular responses to 3 WBV protocols per participant); no parallel baseline groups
+PhysTh_26916927,Phys Ther,2016,ok,True,,False,none,0,0,126,model,False,"PT exercise vs usual care after subacromial decompression RCT; 'groups balanced w.r.t. baseline characteristics... except for EQ-5D, VO2max, pain provocation signs' (descriptive, no P/no significant)"
+JPhysi_38049352,J Physiother,2024,ok,False,implementation,,,,,58,model,False,"BORDERLINE: RCT of clinical-supervision training for physiotherapists (subjects = clinicians, not patients); professional-development trial, out of scope"
+BrJSpo_26305004,Br J Sports Med,2015,ok,False,predictor,,,,,180,model,False,prognostic prediction study (history/exam/MRI predicting return-to-sport after hamstring injury); not a treatment-comparison RCT
+ArchPh_28782541,Arch Phys Med Rehabil,2018,ok,True,,True,text,,,71,model,False,web-based wheelchair-transfer training RCT (3-arm); methods 'Kruskal-Wallis test used to evaluate baseline differences between groups; Fisher exact for categorical'
+ArchPh_26723854,Arch Phys Med Rehabil,2016,ok,True,,True,table,4,0,30,model,False,"mirror therapy stroke CRPS RCT; Table 1 P column (age .08, sex .71, education >.99, dominant .43)"
+ArchPh_33263286,Arch Phys Med Rehabil,2021,ok,False,implementation,,,,,,model,False,"Special Communication on multisite implementation (CFIR domains) of MMAP within a pragmatic RCT; implementation/process paper, not a trial results report"
+JOrtho_25420010,J Orthop Sports Phys Ther,2015,ok,True,,False,none,0,0,36,model,False,"manual therapy cervical radiculopathy RCT; bare 'The 2 groups were similar for all variables at baseline' (P>.05 is for compliance, not baseline)"
+ArchPh_28093194,Arch Phys Med Rehabil,2017,ok,True,,True,narrative,7,0,51,model,False,NMES during hemodialysis CKD RCT; 'baseline... variables (table 1) showed no significant differences between the groups'
+ArchPh_26232684,Arch Phys Med Rehabil,2015,ok,True,,False,none,0,0,,model,False,wheelchair-skills-training powered-wheelchair RCT; UNCERTAIN - baseline table/test not visible in snippet -> verify
+ArchPh_27697429,Arch Phys Med Rehabil,2017,ok,True,,False,none,0,0,66,model,False,"longer vs shorter rehab after lung transplant RCT; Table 1 baseline no P column, no test claim (P-values are outcomes)"
+ArchPh_29902470,Arch Phys Med Rehabil,2018,ok,True,,False,none,0,0,30,model,False,automated mechanical peripheral stimulation Parkinson FOG double-blind RCT; UNCERTAIN - baseline table/test not visible in snippet -> verify
+BrJSpo_33737313,Br J Sports Med,2022,ok,False,secondary,,,,,167,model,False,cost-utility analysis of early ACL reconstruction vs rehab+optional surgery RCT; economic secondary analysis
+ArchPh_33838141,Arch Phys Med Rehabil,2021,ok,True,,True,table,3,1,66,model,False,"psychologically-informed video + PT adolescent PFP double-blind RCT; Table 1 P column (age .03 sig, sex .34, BMI .24)"
+JPhysi_26701163,J Physiother,2016,ok,True,,False,none,0,0,58,model,False,"video/computer interactive exercises geriatric/neuro rehab RCT; Table 1 baseline (Exp/Con) no P column, no test claim"
+JOrtho_34847699,J Orthop Sports Phys Ther,2021,ok,False,secondary,,,,,218,model,False,secondary mediation analysis of hip-exercise vs foot-orthoses PFP RCT
+Muscul_36924579,Musculoskelet Sci Pract,2023,ok,False,qualitative,,,,,64,model,False,qualitative study nested in TEXT4myBACK RCT (assessment of text-message intervention); not an RCT report
+PhysTh_25858974,Phys Ther,2015,ok,True,,False,none,0,0,20,model,False,"novel IMT method COPD RCT; 'both groups had comparable impairment of baseline Pi,max' + descriptive weight difference; ANCOVA adjusts for baseline (no baseline P/no sig test)"
+ArchPh_29409922,Arch Phys Med Rehabil,2018,ok,False,non_physio,,,,,50,model,False,"botulinum toxin A infiltration (vs placebo) + PT for breast-cancer arm pain; tested intervention is the injection, not physiotherapy"
+ArchPh_33556350,Arch Phys Med Rehabil,2021,ok,True,,True,text,,0,48,model,False,patellar tendinopathy DN/PNE+exercise RCT (3-arm); 'baseline features compared using 1-way ANOVA + chi-squared'; 'No significant differences at baseline... so none introduced as covariate'
+Muscul_34450361,Musculoskelet Sci Pract,2021,ok,True,,True,table,8,3,193,model,False,office-worker active-break/postural-shift cluster RCT (3-arm); Table 1 'p value (Baseline comparison)' column (ANOVA/chi2); some baseline differences significant (social support .005)
+JPhysi_25498152,J Physiother,2015,ok,False,appraisal,,,,,,model,False,"J Physiother Appraisal/synopsis (S300, Critically Appraised Paper) of external smooth-pursuit eye-movement trial; not original RCT"
+ArchPh_28396242,Arch Phys Med Rehabil,2017,ok,False,non_physio,,,,,,model,False,"epidural corticosteroid/lidocaine injections for lumbar spinal stenosis; injection/pharmacological, not physiotherapy"
+JOrtho_28504067,J Orthop Sports Phys Ther,2017,ok,True,,False,none,0,0,60,model,False,"dry needling + manual therapy/exercise PFP RCT; ANCOVA adjusted for baseline (adjustment, not test); baseline table/test not visible in snippet -> UNCERTAIN"
+ClinRe_37605454,Clin Rehabil,2024,ok,True,,True,narrative,,1,66,model,False,McKenzie vs advice sciatica RCT; 'clinical characteristics and outcome measures did not differ between groups at baseline except [McKenzie group...]'
+ArchPh_26763949,Arch Phys Med Rehabil,2016,ok,False,secondary,,,,,40,model,False,secondary analysis (cardiorespiratory/functional variables) of exercise-after-stroke pilot RCT; primary outcomes/baseline published previously
+ArchPh_33839105,Arch Phys Med Rehabil,2021,ok,True,,True,narrative,2,0,16,model,False,robotic locomotor training iSCI pilot RCT; 'no significant differences (P<.05) in age or time since injury between the RLT and ABT groups'
+ArchPh_31562872,Arch Phys Med Rehabil,2020,ok,True,,True,table,3,0,36,model,False,"skater-exercise HIIT vs treadmill minor-stroke RCT; Table 1 P column (age .584, sex .717); methods 'baseline clinical characteristics between groups analyzed using independent t test + chi-square'"
+Physio_27914651,Physiotherapy,2017,ok,False,secondary,,,,,96,model,False,subgroup analysis (non-reducible discogenic pain) within the STOPS multicentre RCT
+BrJSpo_34580067,Br J Sports Med,2022,ok,True,,True,table,4,0,334,model,False,"COPE app-based home-exercise depression pragmatic RCT (4-arm); Table 1 'Baseline comparison' column F/chi2 tests (age p=.23, sex p=.45/.78); 'Treatment groups were not different... at baseline'"
+Physio_32026838,Physiotherapy,2020,ok,True,,False,none,0,0,72,model,False,spinal manipulation +/- myofascial release CNLBP RCT; Table 1 baseline no clear P column / no baseline test claim in snippet -> UNCERTAIN
+ArchPh_29337023,Arch Phys Med Rehabil,2018,ok,True,,False,none,0,0,62,model,False,functional/bicycle/exergaming Parkinson pilot RCT (3-arm); no baseline table/test visible in snippet (P-values are outcomes) -> UNCERTAIN
+Physio_38490073,Physiotherapy,2024,ok,False,measurement_validity,,,,,69,model,False,"prospective cohort comparing clinimetric properties of CPAx vs PFIT-s after abdominal surgery; measurement study, not an RCT"
+JPhysi_38472049,J Physiother,2024,ok,True,,False,none,0,0,96,model,False,"abdominal+PFM exercise pregnancy diastasis-recti RCT; Table 1/2 baseline (Exp/Con) no P column, no test claim"
+JOrtho_37751303,J Orthop Sports Phys Ther,2023,ok,False,non_physio,,,,,2313,model,False,"BORDERLINE: online randomized experiment (pain-science/ergonomics vs guideline advice messages -> feelings of reassurance); communication-framing experiment, no clinical PT intervention -> out of scope"
+Physio_30348455,Physiotherapy,2019,ok,True,,True,table,,0,108,model,False,Kinesio Taping cLBP RCT (4-arm); Table 1 caption lists variables for the four groups at baseline with a P-value column
+Muscul_31075730,Musculoskelet Sci Pract,2019,ok,True,,False,none,0,0,40,model,False,"cervical mobilisation vs placebo neck-pain double-blind RCT; Table 2 baseline (Mob/Placebo) no P column, no baseline test claim (P-values are outcomes)"
+JOrtho_33131393,J Orthop Sports Phys Ther,2020,ok,False,secondary,,,,,,model,False,"secondary analysis of trial data (visits/cost vs outcomes, responder cluster analysis); baseline test compares post-hoc responder clusters, not randomized arms"
+Physio_28826745,Physiotherapy,2017,ok,False,non_physio,,,,,75,model,False,"continuous ropivacaine (local anaesthetic) infusion vs sham vs usual care after CABG; tested intervention is an analgesic infusion, not physiotherapy"
+Physio_32430189,Physiotherapy,2020,ok,False,qualitative,,,,,,model,False,qualitative nested study (experiences of VR upper-limb training after stroke); not an RCT report
+ArchPh_27847195,Arch Phys Med Rehabil,2017,ok,False,non_physio,,,,,61,model,False,"augmented cognitive behavioral therapy vs computerized cognitive training for post-stroke depression; psychological intervention, not physiotherapy"
+Physio_25280603,Physiotherapy,2015,ok,True,,True,table,,0,36,model,False,"novel CPM device self-treatment cLBP waitlist RCT; Table 1 P-value column (sex .18, age .19); 'No significant differences were found between...'"
+ArchPh_37295705,Arch Phys Med Rehabil,2023,ok,True,,True,table,,1,30,model,False,"powered exoskeleton cortical-activity stroke pilot RCT; Table 1 P Value column (age .804, sex .782, height .041 significant)"
+Muscul_31605983,Musculoskelet Sci Pract,2019,ok,False,secondary,,,,,120,model,False,secondary analysis of chronic-spinal-pain RCT (predictors of therapy adherence)
+JPhysi_33757719,J Physiother,2021,ok,True,,False,none,0,0,90,model,False,dry cupping vs sham cLBP RCT; bare 'demographic characteristics of both groups were similar... baseline values also similar' (no P/no sig test)
+JOrtho_28944715,J Orthop Sports Phys Ther,2017,ok,False,design,,,,,23,model,False,"controlled laboratory mechanistic study (balance training vs control, EMG/motor-coordination during cutting task); biomechanical outcome"
+ArchPh_28400181,Arch Phys Med Rehabil,2017,ok,False,non_physio,,,,,24,model,False,"cognitive behavioral therapy for sleep/fatigue after TBI; psychological intervention, not physiotherapy"
+ArchPh_32653580,Arch Phys Med Rehabil,2020,ok,True,,False,none,0,0,20,model,False,dual-task balance training transfemoral amputees RCT; no clear baseline group-comparison test visible (Table 3 P-values are change-score comparisons) -> UNCERTAIN
+ArchPh_32502564,Arch Phys Med Rehabil,2020,ok,False,non_physio,,,,,,model,False,"VR simulated-nature engagement for psycho-emotional health/mood in SCI; psycho-emotional wellbeing intervention, not physiotherapy"
+Physio_32718746,Physiotherapy,2021,ok,True,,False,none,0,0,38,model,False,"sEMG biofeedback upper-extremity stroke RCT; 'baseline characteristics compared with DESCRIPTIVE statistics'; 'No differences between groups observed at baseline' (descriptive-only, no inferential test) -> NO"
+ArchPh_29407520,Arch Phys Med Rehabil,2018,ok,False,design,,,,,20,model,False,"within-subject single-blind randomized crossover (WBV vs control, counterbalanced); mechanistic running-biomechanics, no parallel baseline groups"
+BrJSpo_27307271,Br J Sports Med,2016,ok,False,non_physio,,,,,,model,False,"neck-collar jugular-compression protective device, brain DTI/neuroimaging outcome in athletes; sports-medicine device study, not physiotherapy"
+ClinRe_26316552,Clin Rehabil,2016,ok,True,,True,text,,0,73,model,False,group vs individual task training inpatient stroke RCT; methods 'baseline values between groups tested with Fisher/chi2/Mann-Whitney/Student t test'; 'groups were homogenous'
+JOrtho_31021691,J Orthop Sports Phys Ther,2019,ok,True,,False,none,0,0,,model,False,"thoracic manipulation cervical radiculopathy RCT; 2x2 RM-ANOVA assesses group differences at baseline+followup (main analysis), no explicit baseline-balance test/P/claim visible -> UNCERTAIN"
+ArchPh_26657213,Arch Phys Med Rehabil,2016,ok,False,secondary,,,,,,model,False,"post hoc analysis of memory-rehab TBI RCT (working-memory-capacity moderation); cognitive rehab, secondary"
+ArchPh_34175276,Arch Phys Med Rehabil,2021,ok,False,secondary,,,,,248,model,False,secondary analysis from RCT (steps/day vs outcomes after lumbar spine surgery)
+JPhysi_34952812,J Physiother,2022,ok,True,,False,none,0,0,64,model,False,"intravaginal electrical stimulation PFM RCT; Table 1 baseline (Exp/Con) no P column, no test claim"
+Physio_30871894,Physiotherapy,2019,ok,True,,False,none,0,0,94,model,False,in-hospital physiotherapy lung-cancer surgery RCT; no baseline table/test visible in snippet (P-values are outcomes) -> UNCERTAIN
+ArchPh_32926850,Arch Phys Med Rehabil,2021,ok,False,non_physio,,,,,50,model,False,"hyperosmolar dextrose (prolotherapy) injection vs saline for rotator cuff/bursitis; injection intervention, not physiotherapy"
+ClinRe_30168348,Clin Rehabil,2019,ok,True,,False,none,0,0,63,model,False,"internal vs external focus balance training stroke RCT; 'no apparent baseline group differences, except external group seemed heavier' (descriptive, no P/no sig test) -> weight added as covariate"
+Muscul_35952621,Musculoskelet Sci Pract,2022,ok,True,,True,table,,0,41,model,False,"VR vs motor-control exercises chronic neck pain RCT; Table 1+2 p columns (age .62, BMI .61, gender .71) Independent t-test/Fisher chi2"
+ArchPh_28652065,Arch Phys Med Rehabil,2017,ok,True,,True,table,,1,25,model,False,tDCS+sensory modulation stroke motor RCT; Table 2 footnote marks * Significant baseline differences between groups (P<.05); ANCOVA adjusts for baseline
+ArchPh_27794485,Arch Phys Med Rehabil,2017,ok,False,design,,,,,24,model,False,within-subject crossover (NIV phase vs nonintervention phase per subject) exercise-tolerance heart failure; no parallel baseline groups
+ArchPh_28034719,Arch Phys Med Rehabil,2017,ok,True,,True,table,6,0,28,model,False,"BWS gait training treadmill vs overground stroke RCT; Table 1 P column (sex .71, age .78, mass .86, height .43)"
+ArchPh_35810822,Arch Phys Med Rehabil,2022,ok,True,,False,none,0,0,49,model,False,"varying-context gait training Parkinson RCT; groups made equivalent via PRESTRATIFICATION on disease severity (design, not a baseline test); no baseline P/claim"
+Muscul_28888207,Musculoskelet Sci Pract,2017,ok,False,design,,,,,40,model,False,"within-subject randomized crossover (5 stretching procedures per participant, balanced order); acute ROM effects, no parallel baseline groups"
+Muscul_39217854,Musculoskelet Sci Pract,2024,ok,True,,False,none,0,0,30,model,False,"dry needling + usual physio chronic neck pain RCT; baseline section header only, no baseline table/test visible in snippet -> UNCERTAIN"
+Physio_36219918,Physiotherapy,2022,ok,True,,True,narrative,,0,66,model,False,"EMG-biofeedback PFM rectus-diastasis postpartum RCT; 'Sociodemographic features did not differ significantly between the two groups, and neither did BMI/waist/parity/newborn weight'"
+BrJSpo_33247001,Br J Sports Med,2021,ok,True,,False,none,0,0,450,model,False,e-coachER augmented exercise-referral web-support RCT; Table 1 between-group analysis at 12 months (not baseline); no baseline arm-comparison test visible -> UNCERTAIN
+ArchPh_38866225,Arch Phys Med Rehabil,2024,ok,True,,False,none,0,0,99,model,False,"balance+brisk-walking Parkinson RCT; described baseline test compares completers vs dropouts (attrition), not randomized arms; no arm baseline test/claim visible"
+JPhysi_33744191,J Physiother,2021,ok,True,,False,none,0,0,208,model,False,"group vs individual vs home exercise subacromial RCT (3-arm); Table 1 baseline (GE/IE/HE) no P column, no test claim"
+Physio_32026844,Physiotherapy,2020,ok,True,,True,narrative,,0,51,model,False,VR vs conventional rehab Parkinson RCT; 'Variables analysed to verify if any differences existed between the two groups at baseline... no significant differences were identified between the two groups at baseline'
+ArchPh_27576192,Arch Phys Med Rehabil,2016,ok,True,,False,none,0,0,60,model,False,posture corrective orthotic (Denneroll) + multimodal rehab cervical radiculopathy RCT; no baseline table/test visible in snippet (outcomes only) -> UNCERTAIN
+ArchPh_36332676,Arch Phys Med Rehabil,2023,ok,False,non_physio,,,,,98,model,False,"mobile-app self-management intervention for depression in SCI; psychological/self-management, not physiotherapy"
+Muscul_37394322,Musculoskelet Sci Pract,2023,ok,False,design,,,,,88,model,False,"cross-sectional observational study (cervical impairments/pain sensitivity in office workers with headache); single-sample descriptive, not an RCT"
+ArchPh_25433220,Arch Phys Med Rehabil,2015,ok,False,implementation,,,,,24,model,False,"BORDERLINE: cluster RCT of communication-skills training (CONNECT) for physiotherapists (subjects = clinicians); professional-development trial, out of scope"
+Muscul_37847947,Musculoskelet Sci Pract,2023,ok,True,,False,none,0,0,46,model,False,"BORDERLINE: percutaneous electrolysis pain-modulation double-blind RCT (3-arm) in ASYMPTOMATIC subjects (mechanistic); descriptive baseline only, no P/test claim"

@@ -1,0 +1,60 @@
+# ---- SECRETS (never commit) ----
+*.key
+*_key
+
+# ---- manuscript source & submission docs (kept local, NOT in the public repo) ----
+manuscript.tex
+references.bib
+cover_letter_JCE.md
+
+# ---- vendor-specific hosted-LLM runner (kept local, NOT in the public repo) ----
+code_llm.py
+
+# ---- COPYRIGHTED full text / PDFs (must NOT go to a public repo) ----
+pdfs/
+pdftext/
+pdftext_struct/
+pdf_raw/
+00_MANUELLE_PDFS_HIER_SPEICHERN/
+00_GOLD_REVIEW_80/*
+# ...but keep the human gold coding sheet (no article content, just codings)
+!00_GOLD_REVIEW_80/00_BEWERTUNGSSHEET.xlsx
+data/pdfs/
+*.pdf
+# article-text dumps / extracted bodies
+data/snippets.jsonl
+data/corpus_extract.csv
+data/needs.ris
+data/bjsm_oa.json
+
+# ---- agent memory (internal notes, not for publication) ----
+memory/
+
+# ---- OS / caches / temp ----
+.DS_Store
+__pycache__/
+*.pyc
+~$*
+*.tmp
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# harness internal
+.claude/
+
+# heruntergeladene Literatur (copyright)
+literature/
+manuscript_diff.*
+
+# extracted article-text snippets (copyright) + backups
+pdfsnip/
+evidence/
+*.bak
+*.bak[0-9]*

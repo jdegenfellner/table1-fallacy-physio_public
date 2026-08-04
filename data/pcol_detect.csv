@@ -1,0 +1,1475 @@
+record_id,tabular_p,n_ptokens_window,cue,has_header
+ArchPh_25194452,True,15,none,True
+ArchPh_25230071,True,6,none,False
+ArchPh_25264109,False,0,participant characteristi,False
+ArchPh_25308883,True,29,none,True
+ArchPh_25308884,False,0,baseline demographics,False
+ArchPh_25316180,True,6,none,True
+ArchPh_25433220,True,4,none,True
+ArchPh_25448243,False,0,participant characteristi,False
+ArchPh_25448245,True,32,none,True
+ArchPh_25449195,True,21,baseline characteristics,False
+ArchPh_25450120,True,16,none,False
+ArchPh_25450123,True,6,none,True
+ArchPh_25450124,True,26,none,True
+ArchPh_25450131,True,14,none,False
+ArchPh_25450134,False,0,participant characteristi,False
+ArchPh_25461822,True,0,none,True
+ArchPh_25527253,True,4,none,True
+ArchPh_25562510,True,7,none,False
+ArchPh_25582412,True,11,demographic and clinical,False
+ArchPh_25620717,True,32,none,True
+ArchPh_25668777,True,25,none,True
+ArchPh_25721551,False,0,baseline characteristics,False
+ArchPh_25827654,True,13,none,False
+ArchPh_25839089,True,21,none,True
+ArchPh_25842051,False,0,baseline characteristics,False
+ArchPh_25940684,False,1,demographic and clinical,False
+ArchPh_26002204,True,20,none,True
+ArchPh_26008873,True,72,none,True
+ArchPh_26026580,True,16,none,True
+ArchPh_26070976,False,1,participant characteristi,False
+ArchPh_26143052,False,2,participant's characteris,False
+ArchPh_26150167,True,21,none,False
+ArchPh_26189201,False,0,baseline characteristics,False
+ArchPh_26189203,False,0,demographic and clinical,False
+ArchPh_26232684,True,24,none,True
+ArchPh_26254948,False,0,baseline characteristics,False
+ArchPh_26254953,False,0,participant characteristi,False
+ArchPh_26281955,False,0,baseline characteristics,False
+ArchPh_26299751,False,0,baseline characteristics,False
+ArchPh_26301385,False,0,baseline characteristics,False
+ArchPh_26340807,False,2,baseline characteristics,False
+ArchPh_26343171,False,0,baseline demographic info,False
+ArchPh_26360974,True,21,none,True
+ArchPh_26360975,False,0,baseline characteristics,False
+ArchPh_26376447,True,20,none,False
+ArchPh_26452718,False,0,participant characteristi,False
+ArchPh_26482574,True,30,baseline characteristics,False
+ArchPh_26514296,True,18,none,True
+ArchPh_26529471,False,0,participant characteristi,False
+ArchPh_26546987,False,0,participant characteristi,False
+ArchPh_26551230,True,49,none,False
+ArchPh_26606872,False,0,participant characteristi,False
+ArchPh_26657213,True,11,none,True
+ArchPh_26705884,True,26,none,True
+ArchPh_26718237,True,0,baseline demographic char,True
+ArchPh_26723854,True,23,none,True
+ArchPh_26763947,True,1,baseline characteristics,True
+ArchPh_26763949,False,0,participant characteristi,False
+ArchPh_26792619,False,0,"baseline characteristics,",False
+ArchPh_26802969,True,0,baseline characteristics,True
+ArchPh_26812182,True,15,none,True
+ArchPh_26829760,True,12,none,True
+ArchPh_26859610,False,0,none,False
+ArchPh_26869286,False,0,baseline characteristics,False
+ArchPh_26869288,True,0,baseline characteristic,True
+ArchPh_26903143,True,1,none,True
+ArchPh_26903145,True,0,baseline demographic and,True
+ArchPh_26903147,True,10,demographic and clinical,False
+ArchPh_27039058,True,0,none,True
+ArchPh_27153762,True,27,none,True
+ArchPh_27343343,True,3,none,True
+ArchPh_27343344,True,24,none,False
+ArchPh_27424292,False,0,participant characteristi,False
+ArchPh_27576192,False,2,baseline demographic vari,False
+ArchPh_27623523,True,7,demographic and clinical,False
+ArchPh_27639439,True,3,baseline characteristics,False
+ArchPh_27666156,True,1,baseline characteristics,True
+ArchPh_27697429,True,0,participant characteristi,True
+ArchPh_27702556,True,38,none,True
+ArchPh_27771359,False,0,baseline characteristics,False
+ArchPh_27789240,True,24,none,False
+ArchPh_27794485,True,12,none,True
+ArchPh_27845030,True,3,baseline characteristics,False
+ArchPh_27847195,True,2,none,True
+ArchPh_27865846,True,21,none,True
+ArchPh_27965005,False,1,baseline characteristics,False
+ArchPh_27993588,False,0,baseline characteristics,False
+ArchPh_28017706,False,0,participant characteristi,False
+ArchPh_28034719,True,3,baseline characteristics,False
+ArchPh_28088380,True,1,demographic and clinical,True
+ArchPh_28093194,True,26,none,False
+ArchPh_28115072,False,0,baseline characteristics,False
+ArchPh_28137475,True,0,baseline characteristics,True
+ArchPh_28193533,False,0,participant characteristi,False
+ArchPh_28202383,False,0,baseline characteristics,False
+ArchPh_28209505,True,31,baseline characteristics,False
+ArchPh_28209506,False,0,baseline characteristics,False
+ArchPh_28254636,True,0,demographic and clinical,True
+ArchPh_28259517,True,53,none,True
+ArchPh_28279659,True,14,none,False
+ArchPh_28279661,True,1,participant characteristi,True
+ArchPh_28284834,True,126,none,False
+ArchPh_28284835,False,0,participant characteristi,False
+ArchPh_28322759,False,0,none,False
+ArchPh_28322760,True,4,baseline characteristics,False
+ArchPh_28336345,False,0,baseline demographic info,False
+ArchPh_28342828,True,10,demographic and clinical,True
+ArchPh_28342829,False,0,participant characteristi,False
+ArchPh_28363702,False,0,baseline characteristics,False
+ArchPh_28396242,False,1,baseline characteristics,False
+ArchPh_28400181,False,1,demographic and clinical,False
+ArchPh_28465224,True,0,baseline characteristics,True
+ArchPh_28483653,True,0,none,True
+ArchPh_28499657,True,0,baseline demographics and,True
+ArchPh_28506775,True,0,baseline characteristics,True
+ArchPh_28526481,True,11,none,True
+ArchPh_28526482,True,12,none,True
+ArchPh_28583466,True,1,baseline characteristics,True
+ArchPh_28610968,False,0,baseline characteristics,False
+ArchPh_28634056,False,0,demographic and clinical,False
+ArchPh_28647549,True,16,none,False
+ArchPh_28652064,True,26,none,True
+ArchPh_28652065,False,0,participants' characteris,False
+ArchPh_28652066,False,2,baseline characteristics,False
+ArchPh_28688787,True,7,none,True
+ArchPh_28690076,False,0,baseline characteristics,False
+ArchPh_28705551,True,5,none,True
+ArchPh_28735720,True,1,baseline characteristics,True
+ArchPh_28778829,True,3,none,False
+ArchPh_28782541,True,21,none,False
+ArchPh_28899827,True,32,none,False
+ArchPh_28919191,True,20,none,True
+ArchPh_28928026,False,0,participant characteristi,False
+ArchPh_28947165,False,1,baseline characteristics.,False
+ArchPh_28947166,False,0,participant characteristi,False
+ArchPh_28989074,False,0,participant characteristi,False
+ArchPh_29042172,True,0,baseline characteristics,True
+ArchPh_29138049,True,2,baseline characteristics,True
+ArchPh_29223708,False,0,demographic and clinical,False
+ArchPh_29307812,True,16,participant characteristi,False
+ArchPh_29337023,False,0,demographic and clinical,False
+ArchPh_29337024,False,0,baseline characteristics,False
+ArchPh_29407520,True,23,none,False
+ArchPh_29409922,True,4,baseline characteristics,False
+ArchPh_29412167,True,0,participant characteristi,True
+ArchPh_29453980,False,0,demographic and clinical,False
+ArchPh_29457998,True,15,baseline characteristics,False
+ArchPh_29476713,True,3,demographic and clinical,True
+ArchPh_29505744,False,0,participant characteristi,False
+ArchPh_29524398,True,16,none,True
+ArchPh_29702070,False,0,baseline characteristics,False
+ArchPh_29752907,True,24,none,True
+ArchPh_29777714,False,0,baseline characteristics,False
+ArchPh_29787734,True,0,participant characteristi,True
+ArchPh_29859180,True,0,baseline characteristics,True
+ArchPh_29886075,False,0,participant characteristi,False
+ArchPh_29902470,True,17,none,True
+ArchPh_29902472,False,0,baseline characteristics,False
+ArchPh_29935152,False,1,baseline characteristics,False
+ArchPh_29966645,True,0,baseline characteristics,True
+ArchPh_30055163,True,3,baseline characteristics,True
+ArchPh_30075147,False,0,participant characteristi,False
+ArchPh_30076800,False,0,participant characteristi,False
+ArchPh_30092205,True,35,none,True
+ArchPh_30092206,True,0,baseline characteristic o,True
+ArchPh_30165053,False,0,baseline characteristics,False
+ArchPh_30195986,True,13,none,False
+ArchPh_30267667,True,39,none,True
+ArchPh_30268806,True,0,demographic and clinical,True
+ArchPh_30273549,False,0,baseline characteristics,False
+ArchPh_30312595,True,1,baseline characteristics,True
+ArchPh_30315763,False,0,baseline characteristics,False
+ArchPh_30316960,False,0,baseline characteristics,False
+ArchPh_30392753,True,0,baseline demographic and,True
+ArchPh_30419232,True,8,baseline characteristics,False
+ArchPh_30468730,True,7,none,False
+ArchPh_30473018,True,4,none,True
+ArchPh_30473019,True,5,participant characteristi,False
+ArchPh_30476489,True,12,participant characteristi,True
+ArchPh_30521781,False,0,baseline characteristics,False
+ArchPh_30543803,False,0,participant characteristi,False
+ArchPh_30639273,True,0,baseline characteristics,True
+ArchPh_30686326,False,2,baseline characteristics,False
+ArchPh_30703349,False,0,participant characteristi,False
+ArchPh_30738021,True,16,none,False
+ArchPh_30776324,True,0,none,True
+ArchPh_30790557,True,7,none,True
+ArchPh_30796919,True,0,baseline characteristics,True
+ArchPh_30878496,True,1,baseline characteristics,True
+ArchPh_30926293,False,2,baseline characteristics,False
+ArchPh_31002812,True,0,demographic and clinical,True
+ArchPh_31150601,True,0,"baseline characteristics,",True
+ArchPh_31194946,True,0,baseline characteristics,True
+ArchPh_31229528,False,0,baseline demographic and,False
+ArchPh_31247165,True,4,demographic and clinical,False
+ArchPh_31278924,False,0,baseline characteristics,False
+ArchPh_31336101,True,8,none,True
+ArchPh_31374191,False,0,baseline demographics and,False
+ArchPh_31421096,True,1,baseline characteristics,True
+ArchPh_31465756,True,0,table 1    inclusion and,True
+ArchPh_31465757,True,0,baseline demographics of,True
+ArchPh_31469982,True,0,baseline characteristics,True
+ArchPh_31493382,True,45,none,True
+ArchPh_31562872,True,0,baseline characteristics,True
+ArchPh_31562875,True,7,none,True
+ArchPh_31669298,True,12,none,False
+ArchPh_31678222,True,0,baseline characteristics,True
+ArchPh_31678223,False,0,baseline characteristics,False
+ArchPh_31715140,True,13,none,True
+ArchPh_31830433,True,0,baseline characteristics,True
+ArchPh_31874153,True,6,none,True
+ArchPh_31904342,False,0,baseline characteristics,False
+ArchPh_31926142,True,25,none,True
+ArchPh_31935353,False,0,baseline characteristics,False
+ArchPh_31954696,True,0,baseline characteristics,True
+ArchPh_32004517,False,0,baseline characteristics,False
+ArchPh_32084347,True,2,baseline characteristics,True
+ArchPh_32113972,False,0,participant characteristi,False
+ArchPh_32145277,True,6,baseline characteristics,False
+ArchPh_32145279,False,0,participant characteristi,False
+ArchPh_32145280,True,3,none,True
+ArchPh_32169459,True,0,baseline characteristics,True
+ArchPh_32283048,True,39,none,True
+ArchPh_32325162,True,33,none,True
+ArchPh_32325164,True,0,baseline demographic and,True
+ArchPh_32376326,False,0,baseline characteristics,False
+ArchPh_32437690,True,4,none,True
+ArchPh_32445850,True,9,participant characteristi,False
+ArchPh_32450063,False,0,baseline demographic data,False
+ArchPh_32502564,True,5,none,True
+ArchPh_32585169,False,0,baseline demographic and,False
+ArchPh_32653580,True,18,demographic and clinical,False
+ArchPh_32663479,True,2,demographic and clinical,True
+ArchPh_32673652,True,37,none,True
+ArchPh_32682938,False,2,baseline demographic char,False
+ArchPh_32750373,True,5,baseline characteristics,True
+ArchPh_32795561,True,2,participant characteristi,True
+ArchPh_32795562,True,34,none,True
+ArchPh_32827553,True,0,baseline demographic and,True
+ArchPh_32861668,False,0,participant characteristi,False
+ArchPh_32888906,True,44,none,True
+ArchPh_32918907,True,10,participant characteristi,True
+ArchPh_32926850,False,2,baseline characteristics,False
+ArchPh_32926851,False,0,participant characteristi,False
+ArchPh_32976844,True,28,none,True
+ArchPh_33161005,True,0,demographic and clinical,True
+ArchPh_33217374,False,0,participant characteristi,False
+ArchPh_33263286,True,0,none,True
+ArchPh_33275962,True,34,baseline demographic data,False
+ArchPh_33278364,True,6,demographic and clinical,False
+ArchPh_33316225,True,1,baseline characteristics,True
+ArchPh_33338463,True,1,baseline characteristics,True
+ArchPh_33453190,True,0,baseline characteristics,True
+ArchPh_33453192,True,0,participant characteristi,True
+ArchPh_33460575,True,0,demographic and clinical,True
+ArchPh_33485836,True,2,demographic and clinical,True
+ArchPh_33529612,True,8,none,True
+ArchPh_33548206,True,1,baseline demographic and,True
+ArchPh_33556350,True,3,none,True
+ArchPh_33556352,False,0,baseline characteristics,False
+ArchPh_33567336,True,16,baseline demographic and,False
+ArchPh_33617863,True,0,baseline demographic char,True
+ArchPh_33689694,False,2,baseline demographic vari,False
+ArchPh_33781780,True,1,table 1    baseline chara,True
+ArchPh_33811854,False,0,table 1    baseline chara,False
+ArchPh_33819489,False,0,baseline characteristics,False
+ArchPh_33838141,True,0,table 1    baseline chara,True
+ArchPh_33839105,False,1,table 1    general charac,False
+ArchPh_33872573,True,0,table 1    participant ch,True
+ArchPh_33894218,True,0,table 1    eligibility cr,True
+ArchPh_33932360,True,1,table 1    descriptive ch,True
+ArchPh_33939973,False,0,table 1    baseline chara,False
+ArchPh_34029555,True,0,table 1    participant ch,True
+ArchPh_34090854,False,0,table 1    overview of we,False
+ArchPh_34102144,True,0,table 1    participants’,True
+ArchPh_34174224,True,3,participant characteristi,False
+ArchPh_34174225,True,1,table 1    participant ch,True
+ArchPh_34175270,False,0,participant characteristi,False
+ArchPh_34175276,True,0,table 1    baseline demog,True
+ArchPh_34214499,False,0,table 1    participant ch,False
+ArchPh_34228956,False,0,table 1    participant ch,False
+ArchPh_34283997,False,0,table 1    contents of on,False
+ArchPh_34425088,True,0,table 1    characteristic,True
+ArchPh_34480887,True,0,table 1    exercise progr,True
+ArchPh_34516998,False,0,table 1    participants’,False
+ArchPh_34562434,True,0,table 1    characteristic,True
+ArchPh_34571011,True,2,table 1    baseline demog,True
+ArchPh_34606758,True,0,table 1    sample demogra,True
+ArchPh_34610286,True,0,table 1    demographic va,True
+ArchPh_34740596,False,0,table 1    hospital and p,False
+ArchPh_34890563,False,0,table 1    characteristic,False
+ArchPh_34971596,False,0,table 1    participant ch,False
+ArchPh_35081366,False,0,table 1    baseline demog,False
+ArchPh_35090887,False,2,baseline characteristics,False
+ArchPh_35143747,True,0,table 1    inclusion crit,True
+ArchPh_35296398,False,0,table 1    participant ch,False
+ArchPh_35331718,True,0,table 1    demographic ch,True
+ArchPh_35331719,True,0,table 1    baseline chara,True
+ArchPh_35337843,True,0,table 1    baseline chara,True
+ArchPh_35417758,False,0,baseline characteristics,False
+ArchPh_35430239,False,0,table 1    demographics,False
+ArchPh_35439521,True,0,table 1    demographic da,True
+ArchPh_35533737,True,2,table 1    comparison bet,True
+ArchPh_35584738,True,0,table 1    patient charac,True
+ArchPh_35690093,True,0,table 1    demographic ch,True
+ArchPh_35810822,True,23,table 1    baseline demog,True
+ArchPh_35839921,False,0,participant characteristi,False
+ArchPh_35944602,False,0,table 1    baseline chara,False
+ArchPh_36122608,True,0,table 1    demographic an,True
+ArchPh_36206832,False,0,table 1    exercises desc,False
+ArchPh_36243123,True,0,table 1    demographic da,True
+ArchPh_36261056,True,0,table 1    baseline demog,True
+ArchPh_36332676,False,0,table 1    characteristic,False
+ArchPh_36351485,False,0,table 1    descriptive ch,False
+ArchPh_36521580,True,1,table 1    baseline chara,True
+ArchPh_36649912,False,0,none,False
+ArchPh_36649913,False,0,none,False
+ArchPh_36758712,False,1,table 1    sample charact,False
+ArchPh_36773795,False,0,none,False
+ArchPh_36775005,False,0,table 1    baseline chara,False
+ArchPh_36813015,True,8,table 1    characteristic,False
+ArchPh_36868490,False,0,table 1    unit costs and,False
+ArchPh_36933609,True,3,table 1    demographics a,True
+ArchPh_36966953,True,0,table 1    demographics a,True
+ArchPh_37024004,True,0,table 1    sample demogra,True
+ArchPh_37121533,True,3,none,True
+ArchPh_37142177,False,0,table 1    demographic ch,False
+ArchPh_37209934,False,0,table 1    demographic an,False
+ArchPh_37295705,True,3,table 1    baseline chara,True
+ArchPh_37442218,False,0,table 1    swiss ball sta,False
+ArchPh_37467936,True,0,"table 1    demographic, c",True
+ArchPh_37499853,False,0,table 1    anthropometric,False
+ArchPh_37582474,False,1,table 1    descriptive st,False
+ArchPh_37582475,True,20,table 1    demographic an,False
+ArchPh_37610404,True,5,demographic and clinical,False
+ArchPh_37690740,True,0,table 1    baseline chara,True
+ArchPh_37714508,True,0,table 1    study inclusio,True
+ArchPh_37716519,False,0,table 1    details of the,False
+ArchPh_37717685,True,0,table 1    study inclusio,True
+ArchPh_37730193,False,0,table 1    baseline chara,False
+ArchPh_37820844,True,19,table 1    characteristic,False
+ArchPh_37926224,False,0,table 1    participant de,False
+ArchPh_38043674,True,0,table 1    descriptive ch,True
+ArchPh_38092231,True,0,table 1    demographic an,True
+ArchPh_38110138,False,1,table 1    baseline chara,False
+ArchPh_38142026,False,0,table 1    contents of th,False
+ArchPh_38163530,True,1,table 1    baseline demog,True
+ArchPh_38218307,True,7,table 1    training progr,False
+ArchPh_38281579,True,0,table 1    participant ch,True
+ArchPh_38350494,True,0,"table 1    demographics,",True
+ArchPh_38367830,True,0,table 1    demographic an,True
+ArchPh_38367831,False,0,table 1    bedside cyclin,False
+ArchPh_38493909,True,1,table 1    differences in,True
+ArchPh_38614379,False,0,baseline characteristic,False
+ArchPh_38685291,True,0,table 1    demographics a,True
+ArchPh_38710426,True,0,table 1    baseline chara,True
+ArchPh_38723858,False,0,table 1    comparison of,False
+ArchPh_38734047,True,1,table 1    baseline chara,True
+ArchPh_38750715,True,0,table 1    demographic an,True
+ArchPh_38772517,False,0,table 1    baseline chara,False
+ArchPh_38782232,True,0,table 1    participant ch,True
+ArchPh_38851554,True,0,table 1    baseline demog,True
+ArchPh_38851555,True,0,table 1    baseline param,True
+ArchPh_38862033,True,1,table 1    sociodemograph,True
+ArchPh_38866223,True,0,table 1    baseline chara,True
+ArchPh_38866225,False,0,table 1    baseline demog,False
+ArchPh_38969255,False,0,table 1    participant de,False
+ArchPh_38971487,False,0,"table 1    demographic, c",False
+ArchPh_39009331,True,0,table 1    demographic an,True
+ArchPh_39033949,False,0,participant characteristi,False
+ArchPh_39033950,False,0,table 1    summary of bas,False
+ArchPh_39147008,False,0,table 1    patient's base,False
+ArchPh_39154927,False,0,table 1    participant de,False
+ArchPh_39168298,True,1,table 1    baseline chara,True
+ArchPh_39218245,True,0,table 1    descriptive st,True
+BrJSpo_23293007,False,1,table 1 baseline characte,False
+BrJSpo_23525552,False,1,table 1). daily home exer,False
+BrJSpo_24029724,False,0,table 1.  speciﬁc trunk e,False
+BrJSpo_24055782,True,7,participant characteristi,False
+BrJSpo_24100289,False,1,participant characteristi,False
+BrJSpo_24184588,True,5,none,False
+BrJSpo_24195918,False,0,table 1 and ﬁgure 1).  he,False
+BrJSpo_24711660,False,0,baseline characteristics,False
+BrJSpo_24735840,False,1,table 1.  statistical ana,False
+BrJSpo_25246441,False,1,baseline characteristics,False
+BrJSpo_25312876,False,0,table 1. there are six ac,False
+BrJSpo_25385166,False,0,participant characteristi,False
+BrJSpo_25388552,False,0,baseline characteristics,False
+BrJSpo_25618890,False,0,table 1. power calculatio,False
+BrJSpo_25940636,False,1,baseline characteristics,False
+BrJSpo_25979840,False,0,table 1). a 10% isometric,False
+BrJSpo_26002952,True,2,none,True
+BrJSpo_26036675,False,0,table 1.  quality of life,False
+BrJSpo_26136179,False,0,table 1 baseline characte,False
+BrJSpo_26175020,True,1,table 1  characteristics,True
+BrJSpo_26305004,False,0,table 1. eligibility was,False
+BrJSpo_26359346,False,1,baseline characteristics,False
+BrJSpo_26400955,True,12,baseline characteristics,False
+BrJSpo_26486585,False,0,table 1 and online supple,False
+BrJSpo_26702013,False,0,table 1). all prototypes,False
+BrJSpo_26746907,True,3,table 1 illustrates the c,False
+BrJSpo_26781292,False,0,table 1 gives the scheme,False
+BrJSpo_26843538,False,0,table 1 summary of the as,False
+BrJSpo_26917682,True,4,table 1 participant chara,False
+BrJSpo_26935859,False,0,table 1). two patients as,False
+BrJSpo_27034127,False,0,baseline characteristics,False
+BrJSpo_27130927,False,0,table 1). the play footba,False
+BrJSpo_27166286,False,2,none,False
+BrJSpo_27297443,False,0,table 1).  training the t,False
+BrJSpo_27307271,False,2,table 1). as presented in,False
+BrJSpo_27313171,False,1,table 1). players reporte,False
+BrJSpo_27629405,False,0,table 1. the initial roun,False
+BrJSpo_27660368,False,0,table 1). the con group w,False
+BrJSpo_28049624,False,1,table 1 shows baseline pa,False
+BrJSpo_28432077,False,1,table 1 baseline particip,False
+BrJSpo_28476901,False,1,table 1 baseline particip,False
+BrJSpo_28495804,False,0,table 1 group  baseline c,False
+BrJSpo_28500081,True,0,table 1  baseline charact,True
+BrJSpo_28515056,True,0,table 1 summary and compa,True
+BrJSpo_28515057,False,0,participant characteristi,False
+BrJSpo_28701365,False,0,demographic and clinical,False
+BrJSpo_28768617,False,0,table 1 for room characte,False
+BrJSpo_28903949,True,4,table 1. twenty-nine (41.,False
+BrJSpo_28993404,True,5,table 1.  fidelity and pr,False
+BrJSpo_29055883,False,0,table 1. table 1 player d,False
+BrJSpo_29056595,True,3,table 1).  participant re,False
+BrJSpo_29084725,False,0,table 1  eligibility crit,False
+BrJSpo_29127267,False,0,"table 1  of dizziness, ne",False
+BrJSpo_29525763,False,0,baseline characteristics,False
+BrJSpo_29891614,False,0,table 1). at a team visit,False
+BrJSpo_29899050,True,17,"table 1), and no statisti",False
+BrJSpo_30042140,False,0,baseline characteristics,False
+BrJSpo_30131330,False,0,"table 1, for further info",False
+BrJSpo_30181325,False,0,none,False
+BrJSpo_30232061,False,0,none,False
+BrJSpo_30279219,False,0,table 1). football exposu,False
+BrJSpo_30448778,True,11,baseline characteristics,False
+BrJSpo_30626597,True,6,baseline characteristics,False
+BrJSpo_30661011,False,0,table 1  outline of inter,False
+BrJSpo_30737199,False,2,baseline characteristics,False
+BrJSpo_30745314,True,0,baseline characteristics,True
+BrJSpo_30808666,False,0,table 1  components of th,False
+BrJSpo_30878970,True,3,participant characteristi,False
+BrJSpo_30954948,False,0,table 1  items of the que,False
+BrJSpo_31036563,True,5,participant characteristi,False
+BrJSpo_31088784,False,0,baseline characteristics,False
+BrJSpo_31227493,False,0,baseline characteristics,False
+BrJSpo_31597624,False,0,table 1. the training dia,False
+BrJSpo_31615775,False,0,baseline characteristics,False
+BrJSpo_31630089,True,0,baseline characteristics,True
+BrJSpo_31653779,False,0,table 1). we assigned the,False
+BrJSpo_31704697,True,0,table 1  patient characte,True
+BrJSpo_31748198,False,0,"table 1), aiming for 5–6",False
+BrJSpo_31822477,False,0,baseline demographics wer,False
+BrJSpo_31992545,False,0,table 1). each exercise h,False
+BrJSpo_32001517,False,0,"baseline characteristics,",False
+BrJSpo_32217524,False,0,table 1). one participant,False
+BrJSpo_32796016,False,0,table 1  baseline charact,False
+BrJSpo_32816787,False,0,baseline characteristics,False
+BrJSpo_32855201,False,0,table 1 baseline characte,False
+BrJSpo_32878869,False,0,baseline demographics and,False
+BrJSpo_32917672,False,0,table 1  athlete and coac,False
+BrJSpo_32988930,False,0,baseline characteristics,False
+BrJSpo_33020137,True,3,baseline characteristics,False
+BrJSpo_33028585,False,1,none,False
+BrJSpo_33036995,True,3,table 1  baseline charact,False
+BrJSpo_33055132,True,5,none,False
+BrJSpo_33144346,False,2,table 1 shows participant,False
+BrJSpo_33219115,True,7,"baseline characteristics,",False
+BrJSpo_33247001,False,0,table 1. initial attendan,False
+BrJSpo_33509911,True,6,table 1  results health k,False
+BrJSpo_33737313,True,0,baseline characteristics,True
+BrJSpo_33849908,False,0,table 1). assessments of,False
+BrJSpo_34039583,False,0,participant characteristi,False
+BrJSpo_34551902,False,0,table 1 demographics of t,False
+BrJSpo_34580067,True,9,table 1  participant demo,False
+BrJSpo_34598935,True,4,table 1  changes in body,True
+BrJSpo_34836880,False,0,table 1  intervention pro,False
+BrJSpo_35168957,False,0,"table 1), the following c",False
+BrJSpo_35197248,True,0,baseline characteristics,True
+BrJSpo_35338036,False,0,table 1  abbreviated desc,False
+BrJSpo_36137731,False,0,table 1  baseline charact,False
+BrJSpo_36316115,False,0,table 1  materials and me,False
+BrJSpo_36328403,False,0,baseline characteristics,False
+BrJSpo_36428089,False,0,table 1). two supplementa,False
+BrJSpo_36564148,False,0,table 1). among their sup,False
+BrJSpo_36604156,True,5,baseline characteristics,True
+BrJSpo_36717214,False,0,table 1  characteristics,False
+BrJSpo_36796859,False,0,table 1. a positive clust,False
+BrJSpo_36878666,False,0,table 1 baseline characte,False
+BrJSpo_37137673,False,0,table 1  generated list o,False
+BrJSpo_37164620,False,0,table 1  original resear,False
+BrJSpo_37185215,False,0,none,False
+BrJSpo_37308285,False,0,table 1. at the time of t,False
+BrJSpo_37586780,False,1,table 1  correlations bet,False
+BrJSpo_37879858,False,0,baseline characteristics,False
+BrJSpo_38253435,False,0,table 1.  randomisation a,False
+BrJSpo_38253436,False,0,table 1 baseline characte,False
+BrJSpo_38413133,False,0,"table 1). at baseline, no",False
+BrJSpo_38499320,False,0,table 1). each mandatory,False
+BrJSpo_38599679,False,1,table 1.  table 1  charac,False
+BrJSpo_38637135,False,0,table 1). phase 1 ‘weight,False
+BrJSpo_38724071,False,0,table 1). components of t,False
+BrJSpo_38904119,True,6,baseline demographic and,False
+BrJSpo_39209524,False,0,baseline characteristics,False
+ClinRe_24917588,True,0,table 1. demographic and,True
+ClinRe_24942481,False,1,table 1. three and six mo,False
+ClinRe_24965957,True,6,table 1 displays social d,False
+ClinRe_24965958,True,3,baseline characteristics,True
+ClinRe_24994768,False,0,table 1. clinical and soc,False
+ClinRe_25009199,False,0,table 1 shows the charact,False
+ClinRe_25023068,True,4,"table 1, which also shows",True
+ClinRe_25027443,True,3,"table 1. sex, age, and ty",True
+ClinRe_25027444,True,3,table 1). physical measur,False
+ClinRe_25056999,False,1,table 1).  insert table 1,False
+ClinRe_25082955,False,0,table 1. mean (standard d,False
+ClinRe_25082957,True,8,table 1.  downloaded from,False
+ClinRe_25125441,False,0,demographic and clinical,False
+ClinRe_25125442,False,0,table 1). the guide was u,False
+ClinRe_25142276,True,5,table 1. patients’ demogr,False
+ClinRe_25142277,False,0,baseline characteristics,False
+ClinRe_25142278,True,1,table 1. demographic data,True
+ClinRe_25160009,False,0,table 1. descriptive stat,False
+ClinRe_25172089,True,5,table 1). one patient in,True
+ClinRe_25187393,True,7,table 1). in terms of rom,False
+ClinRe_25200879,True,6,baseline characteristics,False
+ClinRe_25239086,False,0,table 1. mann-whitney com,False
+ClinRe_25246609,True,2,table 1. homogeneity test,True
+ClinRe_25258425,True,4,table 1. prior to final a,True
+ClinRe_25261425,True,19,none,False
+ClinRe_25269569,True,6,table 1. there were no si,False
+ClinRe_25288047,False,2,table 1.  prosthesis-rela,False
+ClinRe_25288048,False,0,baseline characteristics,False
+ClinRe_25322869,False,2,"table 1, which is illustr",False
+ClinRe_25322870,True,0,baseline characteristics,True
+ClinRe_25352613,True,6,table 1. no significant d,False
+ClinRe_25352616,True,3,table 1. both groups did,True
+ClinRe_25352617,True,7,table 1.  sf-36 when anal,False
+ClinRe_25381344,True,0,table 1. demographic char,True
+ClinRe_25381345,False,1,baseline characteristics,False
+ClinRe_25381348,False,0,table 1.  intervention pa,False
+ClinRe_25394396,True,3,"table 1. at baseline, the",False
+ClinRe_25413168,False,0,baseline characteristics,False
+ClinRe_25413169,True,6,table 1. six of the 17 re,False
+ClinRe_25413170,False,0,"table 1), 861 declined to",False
+ClinRe_25452632,True,1,table 1. prefracture pati,True
+ClinRe_25525065,True,7,table 1). clinical charac,False
+ClinRe_25540170,True,4,table 1. there were no gr,False
+ClinRe_25547112,False,0,table 1. average time spe,False
+ClinRe_25547113,True,1,baseline characteristics,True
+ClinRe_25552522,True,2,table 1. the prevalence o,True
+ClinRe_25552523,True,5,"baseline characteristics,",False
+ClinRe_25552525,False,0,table 1). the level of de,False
+ClinRe_25552526,True,0,table 1). there were 5 ex,True
+ClinRe_25604912,True,12,table 1 displays the anth,False
+ClinRe_25627292,False,0,"table 1, available online",False
+ClinRe_25636992,True,3,table 1). type of cerebra,False
+ClinRe_25652442,False,0,table 1. from the 23 unan,False
+ClinRe_25697454,True,18,table 1). based on the fi,False
+ClinRe_25758941,False,0,baseline characteristics,False
+ClinRe_25780258,True,0,table 1).  table 2 presen,True
+ClinRe_25780259,True,3,participant characteristi,False
+ClinRe_25780260,False,1,baseline demographics and,False
+ClinRe_25780261,True,0,baseline characteristics,True
+ClinRe_25795459,True,0,table 1. the mean age at,True
+ClinRe_25810425,True,9,table 1. we had seven dro,True
+ClinRe_25819076,True,1,table 1. general characte,True
+ClinRe_25834276,True,8,table 1). most were femal,False
+ClinRe_25862769,True,9,table 1. no significant d,False
+ClinRe_25862770,False,0,table 1 gives a descripti,False
+ClinRe_25896985,True,15,baseline characteristics.,False
+ClinRe_25911523,False,1,table 1. participant char,False
+ClinRe_25952586,True,10,table 1). both groups wer,False
+ClinRe_25952587,False,0,table 1 shows the charact,False
+ClinRe_25952591,False,0,baseline characteristics,False
+ClinRe_26038610,True,11,demographic and clinical,False
+ClinRe_26130657,False,0,table 1). participants pe,False
+ClinRe_26150019,False,1,table 1. daily step goals,False
+ClinRe_26160149,False,1,table 1) except that the,False
+ClinRe_26198890,False,2,baseline characteristics,False
+ClinRe_26198893,True,7,table 1). no patient comp,False
+ClinRe_26219667,False,0,table 1. exercise protoco,False
+ClinRe_26229109,True,6,table 1.  significant dif,True
+ClinRe_26254255,True,4,table 1 provides a summar,False
+ClinRe_26292692,True,6,baseline characteristics,False
+ClinRe_26316551,True,0,table 1. baseline demogra,True
+ClinRe_26316552,True,7,table 1. patients allocat,False
+ClinRe_26316553,False,0,table 1). statistically s,False
+ClinRe_26337625,False,0,table 1. examples of reac,False
+ClinRe_26370148,False,1,table 1.  intervention de,False
+ClinRe_26385357,True,2,"table 1 (and table 2, ava",True
+ClinRe_26385358,False,0,table 1. all homes remain,False
+ClinRe_26396163,True,5,table 1). table 2 shows t,False
+ClinRe_26396164,True,3,baseline characteristics,False
+ClinRe_26396165,True,5,table 1 presents the demo,False
+ClinRe_26396166,True,0,"table 1, characteristics",True
+ClinRe_26427960,True,0,baseline characteristics,True
+ClinRe_26451007,True,7,table 1 shows the charact,True
+ClinRe_26545392,True,3,table 1. results of the c,False
+ClinRe_26555330,False,2,baseline characteristics,False
+ClinRe_26589401,True,18,table 1). the marginal-ma,True
+ClinRe_26603892,False,1,"table 1. overall, the ave",False
+ClinRe_26672997,False,0,baseline characteristics,False
+ClinRe_26672998,False,0,table 1. at the beginning,False
+ClinRe_26721873,False,0,table 1 summarizes demogr,False
+ClinRe_26817808,True,1,table 1. characteristics,True
+ClinRe_26817809,True,2,demographic and clinical,True
+ClinRe_26825109,False,0,baseline characteristics,False
+ClinRe_26837431,False,2,table 1 for detailed reas,False
+ClinRe_26851251,False,0,table 1. overview of inte,False
+ClinRe_26869596,True,5,table 1). there was a lar,True
+ClinRe_26893457,True,4,baseline demographic and,True
+ClinRe_26951348,True,12,table 1. all participants,False
+ClinRe_26975312,True,4,table 1. baseline physica,True
+ClinRe_26975313,True,0,baseline characteristics,True
+ClinRe_27006419,True,2,table 1 summarizes the re,True
+ClinRe_27009057,False,0,table 1). twenty and 23 o,False
+ClinRe_27029938,True,1,table 1). enrolled patien,True
+ClinRe_27029939,False,1,table 1. for those in the,False
+ClinRe_27053195,False,0,table 1. baseline charact,False
+ClinRe_27056250,True,9,table 1 shows clinical ch,True
+ClinRe_27068367,True,4,baseline characteristics,True
+ClinRe_27068368,False,0,participant characteristi,False
+ClinRe_27121863,False,1,table 1. the additional p,False
+ClinRe_27178843,False,0,table 1. the groups were,False
+ClinRe_27246516,True,3,table 1) and outcome  dow,False
+ClinRe_27260764,True,0,participant characteristi,True
+ClinRe_27271373,False,2,table 1 describes the dem,False
+ClinRe_27271374,True,3,"table 1, available online",False
+ClinRe_27311454,False,0,table 1. characteristics,False
+ClinRe_27343197,False,0,table 1. at the time of f,False
+ClinRe_27353245,True,4,table 1). all participant,True
+ClinRe_27353246,True,16,table 1. at baseline no s,False
+ClinRe_27353247,False,0,"table 1, available online",False
+ClinRe_27356944,True,6,table 1. no significant b,False
+ClinRe_27378787,False,0,table 1. baseline partici,False
+ClinRe_27470470,False,0,table 1 web] the reach-to,False
+ClinRe_27496696,False,0,table 1. similarities and,False
+ClinRe_27496698,False,0,table 1) before the analy,False
+ClinRe_27496700,False,0,baseline characteristics,False
+ClinRe_27512098,True,7,baseline characteristics,False
+ClinRe_27512099,True,11,table 1. demographic and,False
+ClinRe_27681481,True,1,baseline demographic char,True
+ClinRe_27707943,True,13,table 1 presents the demo,False
+ClinRe_27733650,True,2,table 1. the demographic,True
+ClinRe_27742752,False,2,table 1. comparison of ma,False
+ClinRe_27920261,True,13,baseline characteristics,False
+ClinRe_27920262,False,0,table 1. home exercises –,False
+ClinRe_27932540,True,5,"table 1), along with the",False
+ClinRe_28068794,True,5,table 1. baseline charact,True
+ClinRe_28071192,False,0,none,False
+ClinRe_28074671,True,4,table 1). illusions of mo,True
+ClinRe_28074672,True,3,table 1 presents the resu,False
+ClinRe_28081633,False,0,table 1. description of a,False
+ClinRe_28118733,True,0,"table 1, and up to 360 un",True
+ClinRe_28351168,True,0,table 1). conventional ph,True
+ClinRe_28378600,True,3,baseline characteristics,False
+ClinRe_28415881,False,0,table 1.  supervision of,False
+ClinRe_28459155,False,0,table 1 presents the temp,False
+ClinRe_28459161,False,0,table 1) were recruited f,False
+ClinRe_28459163,True,13,baseline characteristics,False
+ClinRe_28523987,False,0,table 1. subject characte,False
+ClinRe_28523988,False,0,table 1. overview of prim,False
+ClinRe_28547999,True,0,table 1 shows an imbalanc,True
+ClinRe_28580791,False,0,demographic and clinical,False
+ClinRe_28592147,False,0,table 1. there was a majo,False
+ClinRe_28610442,True,10,baseline characteristics,False
+ClinRe_28629268,False,2,table 1. no significant d,False
+ClinRe_28629269,True,19,demographic and clinical,True
+ClinRe_28629270,True,0,table 1. baseline charact,True
+ClinRe_28633534,True,6,baseline characteristics,False
+ClinRe_28643570,False,0,table 1 shows the partici,False
+ClinRe_28714343,True,7,baseline characteristics,True
+ClinRe_28719977,True,8,table 1). there were no b,True
+ClinRe_28726492,True,8,table 1). when comparing,False
+ClinRe_28730849,False,2,baseline characteristics,False
+ClinRe_28730888,False,0,table 1. potentially elig,False
+ClinRe_28745063,False,0,table 1). the daily levod,False
+ClinRe_28776408,True,1,table 1. comparison betwe,True
+ClinRe_28783969,False,0,"table 1, web only); •• ag",False
+ClinRe_28786335,True,9,table 1). one outlier (in,False
+ClinRe_28786337,False,0,table 1 and included: ••,False
+ClinRe_28805066,True,1,table 1. patient’s data.,True
+ClinRe_28805094,True,0,baseline characteristics,True
+ClinRe_28856945,False,2,table 1. age ranged 24–93,False
+ClinRe_28914087,True,4,baseline characteristics,False
+ClinRe_28933605,True,0,table 1). one patient in,True
+ClinRe_28933607,True,3,baseline demographic and,False
+ClinRe_28933609,True,12,table 1. there were no gr,True
+ClinRe_28933611,True,13,baseline characteristics,False
+ClinRe_28933613,False,0,table 1. characteristics,False
+ClinRe_28975842,False,1,baseline characteristics,False
+ClinRe_29019274,False,0,table 1. all sessions wer,False
+ClinRe_29050507,True,12,table 1).  primary outcom,True
+ClinRe_29072086,False,0,table 1). in both program,False
+ClinRe_29072092,True,11,table 1. there were no si,False
+ClinRe_29086586,False,0,baseline characteristics,False
+ClinRe_29166778,False,1,baseline demographic data,False
+ClinRe_29232980,True,5,table 1). table 2 reports,True
+ClinRe_29278019,False,0,table 1. the most frequen,False
+ClinRe_29318917,True,5,table 1). no adverse effe,True
+ClinRe_29333872,False,0,table 1. participant char,False
+ClinRe_29400070,True,0,table 1. there were no si,True
+ClinRe_29417831,True,4,table 1. baseline charact,False
+ClinRe_29417832,True,14,"table 1. age, gender, smo",False
+ClinRe_29424236,False,0,table 1. the groups were,False
+ClinRe_29430970,False,0,table 1). the difference,False
+ClinRe_29473482,False,0,participant characteristi,False
+ClinRe_29493280,True,8,baseline characteristics,False
+ClinRe_29504416,True,0,baseline characteristics,True
+ClinRe_29529870,True,1,"table 1, there were no si",True
+ClinRe_29552921,False,0,table 1. description of m,False
+ClinRe_29569470,False,0,table 1. resources consum,False
+ClinRe_29606025,True,2,baseline characteristics,True
+ClinRe_29651872,False,1,table 1. in order to coll,False
+ClinRe_29696990,False,0,table 1. sample character,False
+ClinRe_29756459,True,0,table 1). there were thre,True
+ClinRe_29783893,True,5,baseline characteristics,True
+ClinRe_29783899,False,0,table 1. name and trainin,False
+ClinRe_29783900,True,4,table 1. demographics of,False
+ClinRe_29843517,False,0,table 1). this schedule i,False
+ClinRe_29843525,True,5,table 1. there were no si,False
+ClinRe_29843529,False,0,table 1. mindfulness prog,False
+ClinRe_29865898,False,0,table 1. study inclusion,False
+ClinRe_29954190,False,2,baseline demographic data,False
+ClinRe_29962227,False,2,table 1). the levodopa eq,False
+ClinRe_29969916,False,2,table 1). there were no s,False
+ClinRe_29991270,False,0,table 1. inclusion and ex,False
+ClinRe_30012007,True,0,baseline characteristics,True
+ClinRe_30012022,True,21,"table 1, supplementary fi",False
+ClinRe_30012033,False,1,table 1 shows the charact,False
+ClinRe_30033755,True,21,table 1. all patients rec,True
+ClinRe_30037276,False,0,baseline characteristics,False
+ClinRe_30045632,False,0,table 1. scoring criteria,False
+ClinRe_30045638,False,1,baseline demographic data,False
+ClinRe_30056743,False,0,table 1. there were no ma,False
+ClinRe_30056747,True,7,baseline characteristics,True
+ClinRe_30064259,True,3,baseline characteristics,True
+ClinRe_30064262,False,0,demographic and clinical,False
+ClinRe_30064264,False,1,"baseline characteristics,",False
+ClinRe_30064268,False,0,table 1. characteristics,False
+ClinRe_30168348,False,0,table 1. criteria for eva,False
+ClinRe_30246555,False,0,table 1. baseline descrip,False
+ClinRe_30246557,False,0,"table 1, no significant d",False
+ClinRe_30304958,True,7,"table 1. at baseline, no",False
+ClinRe_30306805,False,1,table 1. in all 103 (100%,False
+ClinRe_30322272,False,1,baseline demographic info,False
+ClinRe_30326747,True,3,table 1. participants cha,True
+ClinRe_30375234,False,0,table 1. unit costs of at,False
+ClinRe_30409049,False,0,participant characteristi,False
+ClinRe_30442030,False,2,baseline characteristics,False
+ClinRe_30450972,True,14,table 1). there were no s,True
+ClinRe_30458625,True,13,table 1. demographic data,True
+ClinRe_30501396,True,3,table 1. descriptive data,True
+ClinRe_30514108,False,0,table 1). eight people (1,False
+ClinRe_30514113,True,7,table 1). there were stat,False
+ClinRe_30514114,False,1,table 1. attendance rates,False
+ClinRe_30514115,True,1,"table 1, which show that",True
+ClinRe_30526016,True,0,table 1).  3  choi et al,True
+ClinRe_30537847,False,0,table 1). these condition,False
+ClinRe_30556429,False,2,table 1. the groups were,False
+ClinRe_30585498,True,0,table 1. we observed no s,True
+ClinRe_30599772,False,0,table 1 and figure 1). no,False
+ClinRe_30607983,True,1,table 1; 45 liver transpl,True
+ClinRe_30607986,True,0,baseline characteristics,True
+ClinRe_30618285,True,1,baseline characteristics,True
+ClinRe_30642194,False,0,baseline characteristics,False
+ClinRe_30672304,False,0,table 1. demographic and,False
+ClinRe_30672317,True,7,table 1). at three months,False
+ClinRe_30722696,True,0,table 1. baseline charact,True
+ClinRe_30747010,False,0,table 1.  health outcomes,False
+ClinRe_30757911,True,11,baseline characteristics,False
+ClinRe_30764635,False,2,"table 1. at the baseline,",False
+ClinRe_30782000,True,4,table 1 shows the general,False
+ClinRe_30791702,False,1,baseline characteristics,False
+ClinRe_30808203,False,0,participant characteristi,False
+ClinRe_30813767,False,1,table 1). table 2 present,False
+ClinRe_30813776,False,0,table 1 outlines the demo,False
+ClinRe_30841744,True,4,table 1. due to patient d,False
+ClinRe_30845829,False,0,baseline characteristics,False
+ClinRe_30935225,False,1,baseline demographic data,False
+ClinRe_30955362,False,0,table 1. no adverse event,False
+ClinRe_30974955,True,12,baseline demographic data,False
+ClinRe_30977382,False,0,participant characteristi,False
+ClinRe_30977392,True,17,"table 1). furthermore, du",True
+ClinRe_30977397,True,1,table 1. clinical charact,True
+ClinRe_30977398,False,0,table 1. outcome assessme,False
+ClinRe_30983387,True,4,baseline characteristics,True
+ClinRe_31007047,True,0,baseline demographic and,True
+ClinRe_31007053,False,2,baseline characteristics,False
+ClinRe_31018684,False,0,baseline demographic and,False
+ClinRe_31032629,True,0,baseline characteristics,True
+ClinRe_31066315,False,0,table 1. demographic char,False
+ClinRe_31099264,True,21,baseline characteristics,False
+ClinRe_31104476,False,0,table 1) consisted of sev,False
+ClinRe_31159569,False,0,table 1) who played violi,False
+ClinRe_31169029,False,0,table 1).  compliance wit,False
+ClinRe_31198048,False,0,table 1. baseline charact,False
+ClinRe_31216880,False,0,baseline characteristics,False
+ClinRe_31230466,True,1,table 1 shows the results,True
+ClinRe_31244327,True,4,participant characteristi,True
+ClinRe_31266367,False,0,table 1. participants’ se,False
+ClinRe_31271045,False,0,table 1. items of ikigai-,False
+ClinRe_31342780,True,0,table 1. descriptive stat,True
+ClinRe_31353941,True,4,demographic and clinical,True
+ClinRe_31409126,True,2,table 1. characteristics,True
+ClinRe_31423822,False,0,baseline characteristics,False
+ClinRe_31495192,True,7,table 1). table 2 shows t,True
+ClinRe_31505943,True,8,table 1 presents the clin,False
+ClinRe_31505954,True,4,"table 1, and there were n",False
+ClinRe_31549519,False,0,baseline characteristics,False
+ClinRe_31559844,False,0,table 1 shows the details,False
+ClinRe_31565952,False,0,table 1). table 2 display,False
+ClinRe_31603002,True,1,table 1 describes the cha,True
+ClinRe_31608676,False,0,baseline characteristics,False
+ClinRe_31608677,True,10,table 1). to the best of,True
+ClinRe_31617395,True,10,participant characteristi,False
+ClinRe_31642352,False,0,table 1. the only between,False
+ClinRe_31663369,True,4,table 1. improvements wer,True
+ClinRe_31686529,True,10,table 1 shows the baselin,False
+ClinRe_31769299,False,2,table 1) and on baseline,False
+ClinRe_31786963,False,0,baseline demographics wer,False
+ClinRe_31789060,False,0,table 1.  420  clinical,False
+ClinRe_31795748,True,1,table 1. baseline demogra,True
+ClinRe_31808352,False,0,table 1 summarizes the ev,False
+ClinRe_31858823,True,4,baseline demographics (ag,False
+ClinRe_31875687,False,0,baseline characteristic a,False
+ClinRe_31903800,False,0,demographic and clinical,False
+ClinRe_31912752,False,0,baseline demographic and,False
+ClinRe_31918574,False,0,table 1. all types of exe,False
+ClinRe_31937123,False,0,table 1 summarizes and co,False
+ClinRe_31964164,False,0,baseline characteristics,False
+ClinRe_31964172,True,3,"table 1). in table 2, an",False
+ClinRe_31964174,True,4,table 1). fifty-nine perc,False
+ClinRe_31994405,True,3,table 1. the groups were,False
+ClinRe_32026701,True,7,baseline characteristics,False
+ClinRe_32037862,True,3,table 1. demographics and,False
+ClinRe_32063035,False,0,table 1). the continuous,False
+ClinRe_32070122,True,5,table 1 presents the soci,True
+ClinRe_32141306,True,15,baseline characteristics,False
+ClinRe_32172602,False,0,table 1. anthropometric d,False
+ClinRe_32183555,True,3,baseline demographic data,False
+ClinRe_32204612,False,0,baseline demographic and,False
+ClinRe_32306762,True,4,"table 1, there were no si",False
+ClinRe_32336148,False,0,"baseline characteristics,",False
+ClinRe_32349528,True,10,table 1. baseline demogra,True
+ClinRe_32349543,True,3,table 1 shows the baselin,True
+ClinRe_32366207,False,0,table 1 and in the interv,False
+ClinRe_32372651,True,5,baseline characteristic c,False
+ClinRe_32380852,False,2,baseline demographic and,False
+ClinRe_32380917,False,2,table 1. baseline sociode,False
+ClinRe_32397748,True,2,table 1. demographic data,True
+ClinRe_32438828,False,0,table 1. characteristics,False
+ClinRe_32475261,False,1,demographic and clinical,False
+ClinRe_32476482,False,1,table 1. baseline sociode,False
+ClinRe_32506940,False,0,demographic and clinical,False
+ClinRe_32508129,False,0,"table 1, figure 1). the p",False
+ClinRe_32508183,False,1,table 1. there were no di,False
+ClinRe_32513018,False,0,table 1. interventions us,False
+ClinRe_32517490,True,4,baseline characteristics,False
+ClinRe_32517498,True,1,"table 1), completed a num",True
+ClinRe_32517513,False,0,table 1. the primary outc,False
+ClinRe_32526153,False,0,baseline demographic data,False
+ClinRe_32546065,True,0,baseline characteristics,True
+ClinRe_32567356,False,0,table 1. table 2 shows th,False
+ClinRe_32567357,False,0,table 1). all patients we,False
+ClinRe_32573271,True,1,participant characteristi,True
+ClinRe_32580577,False,0,table 1. kinesio taping a,False
+ClinRe_32602362,True,5,baseline characteristics,True
+ClinRe_32602373,False,1,table 1. demographic char,False
+ClinRe_32638614,True,14,table 1. no statistically,True
+ClinRe_32660261,False,0,table 1. within-session t,False
+ClinRe_32660264,True,11,baseline demographic char,False
+ClinRe_32686487,True,8,"table 1). overall, 19 of",False
+ClinRe_32715744,True,4,baseline characteristics,True
+ClinRe_32723088,False,0,baseline characteristics,False
+ClinRe_32731750,False,0,table 1). no adverse effe,False
+ClinRe_32731757,True,1,baseline demographic and,True
+ClinRe_32748630,True,3,table 1 provides a summar,False
+ClinRe_32757636,False,2,table 1. descriptive stat,False
+ClinRe_32762340,False,0,baseline demographic and,False
+ClinRe_32907384,True,11,baseline characteristics,False
+ClinRe_32907392,True,2,baseline demographic and,True
+ClinRe_32907399,False,0,table 1. intervention sch,False
+ClinRe_32914639,False,0,table 1. characteristics,False
+ClinRe_32942914,False,2,table 1 shows that at bas,False
+ClinRe_33016132,True,4,"baseline demographics, cl",False
+ClinRe_33040590,True,7,table 1). 35 women and 66,True
+ClinRe_33040598,True,0,table 1.  schmidt et al.,True
+ClinRe_33040610,False,0,table 1. muscles and dose,False
+ClinRe_33076707,True,3,baseline characteristics,True
+ClinRe_33095658,False,0,baseline demographics (ag,False
+ClinRe_33103916,False,0,table 1) between january,False
+ClinRe_33106057,False,0,table 1). in the study co,False
+ClinRe_33131328,True,0,table 1. baseline charact,True
+ClinRe_33155484,True,13,table 1). a significant t,True
+ClinRe_33222502,True,3,table 1 showed the baseli,True
+ClinRe_33233945,True,2,baseline characteristics,True
+ClinRe_33233946,False,0,table 1. baseline patient,False
+ClinRe_33233972,False,0,table 1).  latimer et al,False
+ClinRe_33272025,False,1,participant characteristi,False
+ClinRe_33283533,False,0,table 1. definition of po,False
+ClinRe_33305619,False,0,baseline characteristics,False
+ClinRe_33307766,True,5,baseline characteristics,False
+ClinRe_33307783,True,6,table 1 displays the demo,True
+ClinRe_33356517,False,0,table 1. characteristics,False
+ClinRe_33356519,True,4,table 1). the device sett,False
+ClinRe_33371741,False,2,table 1 shows demographic,False
+ClinRe_33406892,False,1,table 1 shows the partici,False
+ClinRe_33423549,True,2,table 1. baseline charact,True
+ClinRe_33472420,True,5,table 1. participant char,True
+ClinRe_33508955,False,0,table 1. description of s,False
+ClinRe_33517744,True,2,demographic and clinical,True
+ClinRe_33586474,False,0,table 1.4–8 these were th,False
+ClinRe_33586475,False,1,baseline demographic and,False
+ClinRe_33611923,True,7,table 1 shows the subject,True
+ClinRe_33624514,False,0,table 1 shows the baselin,False
+ClinRe_33685232,False,0,table 1. description of t,False
+ClinRe_33706569,True,6,baseline characteristics,False
+ClinRe_33706570,False,1,demographic and clinical,False
+ClinRe_33706573,False,0,table 1). the  mitchell,False
+ClinRe_33715477,True,0,participant characteristi,True
+ClinRe_33749349,False,1,table 1. the participants,False
+ClinRe_33781101,False,0,table 1 illustrates basel,False
+ClinRe_33810776,False,0,table 1). each session la,False
+ClinRe_33826449,False,0,table 1. the groups were,False
+ClinRe_33827283,False,0,demographic and clinical,False
+ClinRe_33843296,False,1,table 1 and were comparab,False
+ClinRe_33843297,False,0,participant characteristi,False
+ClinRe_33858205,True,6,table 1). analysis of cov,False
+ClinRe_33858221,False,0,table 1. overview of inte,False
+ClinRe_33858230,False,0,table 1. participant demo,False
+ClinRe_33896213,False,0,table 1. clinical-demogra,False
+ClinRe_33896234,True,13,table 1. data for raw mea,False
+ClinRe_33906450,True,8,table 1. the baseline mea,False
+ClinRe_34027703,True,0,table 1). no adverse even,True
+ClinRe_34053229,False,0,table 1. baseline charact,False
+ClinRe_34053249,False,0,table 1. patients in the,False
+ClinRe_34053250,True,12,baseline demographic and,True
+ClinRe_34092117,True,0,participant characteristi,True
+ClinRe_34107792,False,0,table 1. social and clini,False
+ClinRe_34240642,False,0,"table 1), except for key",False
+ClinRe_34266323,False,0,"baseline characteristics,",False
+ClinRe_34296639,True,3,table 1. the results reve,True
+ClinRe_34355605,False,2,table 1). in the study pe,False
+ClinRe_34783270,False,0,table 1 summarizes descri,False
+ClinRe_34964679,False,0,demographic and clinical,False
+ClinRe_35108114,True,2,participant characteristi,True
+ClinRe_35191331,True,0,table 1. sociodemographic,True
+ClinRe_35287479,True,10,table 1). ninety-ﬁve perc,True
+ClinRe_35313751,True,1,table 1). the hospital st,True
+ClinRe_35466705,True,0,table 1. participant char,True
+ClinRe_35473371,True,0,baseline characteristics,True
+ClinRe_35673263,False,0,table 1. to complement ou,False
+ClinRe_35722671,False,2,baseline characteristics,False
+ClinRe_35786028,False,1,table 1. no significant d,False
+ClinRe_35866206,False,0,table 1 shows baseline da,False
+ClinRe_36004384,False,0,baseline characteristics.,False
+ClinRe_36285484,False,0,participant characteristi,False
+ClinRe_36325678,False,2,table 1. resource use ana,False
+ClinRe_36453001,True,10,table 1 reports the means,False
+ClinRe_37605454,True,0,demographic and clinical,True
+ClinRe_38099720,False,0,table 1. patients who rec,False
+ClinRe_38291625,True,3,"table 1). additionally, n",False
+ClinRe_38304940,False,0,table 1). the therapeutic,False
+ClinRe_38409798,False,0,participant characteristi,False
+ClinRe_38676324,False,0,table 1. thirteen physica,False
+ClinRe_39091094,True,7,table 1. median caregiver,True
+ClinRe_39257057,False,0,table 1. the study was pe,False
+JOrtho_25420010,True,6,table 1 presents baseline,False
+JOrtho_25552287,False,0,table 1). after viewing t,False
+JOrtho_25627150,False,0,table 1  participant demo,False
+JOrtho_25627152,False,1,participant characteristi,False
+JOrtho_25641309,False,0,table 1  background chara,False
+JOrtho_25679343,True,5,none,False
+JOrtho_25679344,True,9,none,False
+JOrtho_25739844,True,7,table 1 variables  demogr,False
+JOrtho_25899215,False,0,table 1). the sample size,False
+JOrtho_25996365,False,0,table 1  participant char,False
+JOrtho_26110548,False,1,table 1 characteristic  f,False
+JOrtho_26416334,False,0,table 1  brief descriptio,False
+JOrtho_26471852,False,0,table 1  exercise-plus–ma,False
+JOrtho_26556391,True,7,table 1  demographics and,False
+JOrtho_26556393,True,5,none,False
+JOrtho_26721229,False,0,baseline demographic data,False
+JOrtho_26755405,True,4,table 1). none of the 102,False
+JOrtho_26813753,False,0,participant characteristi,False
+JOrtho_26813755,False,0,table 1  study eligibilit,False
+JOrtho_26954273,False,1,baseline characteristics,False
+JOrtho_27011304,False,0,baseline demographic vari,False
+JOrtho_27011305,False,0,table 1 characteristic  c,False
+JOrtho_27170524,False,0,baseline demographic data,False
+JOrtho_27266883,False,0,table 1 shows the demogra,False
+JOrtho_27266885,True,25,none,True
+JOrtho_27374016,False,0,table 1). data were colle,False
+JOrtho_27477254,False,0,table 1  baseline demogra,False
+JOrtho_27477473,False,0,table 1  baseline demogra,False
+JOrtho_27681448,True,0,baseline characteristics,True
+JOrtho_27937046,False,0,baseline characteristics,False
+JOrtho_28158963,False,0,table 1  baseline charact,False
+JOrtho_28257614,False,2,baseline characteristics,False
+JOrtho_28257617,False,0,baseline demographic and,False
+JOrtho_28363270,False,0,none,False
+JOrtho_28504067,True,10,baseline demographic and,False
+JOrtho_28704625,True,4,"baseline characteristics,",True
+JOrtho_28944715,True,11,none,False
+JOrtho_29056072,False,0,table 1). whitehouse et a,False
+JOrtho_29257924,True,3,table 1 measure  outcome,False
+JOrtho_29406835,False,0,table 1. each was familia,False
+JOrtho_29607761,False,0,none,False
+JOrtho_29607764,False,0,table 1. the full study p,False
+JOrtho_29607766,False,0,participant characteristi,False
+JOrtho_29747540,False,0,baseline demographic data,False
+JOrtho_29895234,False,0,table 1  baseline charact,False
+JOrtho_29895236,True,13,none,True
+JOrtho_29996734,False,0,table 1).  table 1  physi,False
+JOrtho_30501388,False,1,participant characteristi,False
+JOrtho_30501389,True,0,table 1  outcomes health-,True
+JOrtho_30759357,False,0,baseline characteristics,False
+JOrtho_30862274,True,8,table 1). following the c,False
+JOrtho_31021691,False,0,table 1  data analysis al,False
+JOrtho_31130060,False,0,baseline characteristics,False
+JOrtho_31443627,False,0,table 1  subgroups of the,False
+JOrtho_31663814,False,0,baseline characteristics,False
+JOrtho_31810405,True,4,baseline demographic data,False
+JOrtho_31905097,True,7,"table 1), but the hvlat g",False
+JOrtho_32005093,False,0,"table 1)45,81 to be inclu",False
+JOrtho_32272030,False,0,baseline characteristics,False
+JOrtho_32857944,False,0,table 1  with active shou,False
+JOrtho_33131393,False,1,baseline characteristics,False
+JOrtho_33306927,False,0,table 1). we hypothesized,False
+JOrtho_33383999,True,9,table 1  scores at follow,False
+JOrtho_33789429,False,0,"table 1), or baseline sho",False
+JOrtho_33789433,False,0,demographic and clinical,False
+JOrtho_33789444,False,0,participant characteristi,False
+JOrtho_33962515,False,0,table 1. no adverse event,False
+JOrtho_33971735,False,0,baseline characteristics,False
+JOrtho_34784246,False,0,participant characteristi,False
+JOrtho_34847699,False,0,table 1 outlines the sele,False
+JOrtho_34972488,False,0,baseline demographics wer,False
+JOrtho_35536245,False,0,table 1  from participant,False
+JOrtho_35802816,False,0,baseline characteristics,False
+JOrtho_35802818,False,0,table 1). the treating ph,False
+JOrtho_36099170,False,0,table 1). a 2-stage train,False
+JOrtho_36306171,False,0,participant characteristi,False
+JOrtho_36306175,False,0,"table 1, including ration",False
+JOrtho_36484352,False,0,"table 1  age, y  basketba",False
+JOrtho_36507701,False,0,baseline characteristics,False
+JOrtho_37706686,False,0,table 1  methods  baselin,False
+JOrtho_37751303,False,0,table 1).  primary outcom,False
+JOrtho_37795555,False,0,baseline characteristics,False
+JOrtho_38189683,False,0,baseline characteristics,False
+JOrtho_38284367,False,0,table 1). a total of 239,False
+JOrtho_38385220,False,1,baseline characteristics,False
+JOrtho_38497906,False,0,baseline characteristics,False
+JOrtho_38530230,True,3,"table 1). also, to mainta",False
+JOrtho_38530232,False,0,baseline characteristics,False
+JOrtho_38635937,False,0,demographic and clinical,False
+JOrtho_38840581,False,0,"table 1  age, sex, height",False
+JOrtho_39180194,True,4,table 1). we recruited ov,True
+JOrtho_39207737,False,0,baseline demographic data,False
+JOrtho_39348218,False,1,table 1  participants’ ba,False
+JOrtho_39475669,False,0,baseline characteristics,False
+JOrtho_39478429,False,0,baseline characteristics,False
+JPhysi_25439709,False,0,none,False
+JPhysi_25498151,False,0,table 1    example of six,False
+JPhysi_25498152,False,0,none,False
+JPhysi_25499648,False,0,table 1    characteristic,False
+JPhysi_25499650,False,0,none,False
+JPhysi_25534580,False,0,table 1    characteristic,False
+JPhysi_25744852,False,0,none,False
+JPhysi_25922158,False,0,none,False
+JPhysi_26070650,False,0,none,False
+JPhysi_26092388,False,0,none,False
+JPhysi_26093810,False,0,table 1    baseline chara,False
+JPhysi_26096013,False,0,table 1    characteristic,False
+JPhysi_26319283,False,0,none,False
+JPhysi_26320838,False,0,none,False
+JPhysi_26365268,False,0,table 1    description of,False
+JPhysi_26386894,False,0,table 1    baseline chara,False
+JPhysi_26699692,False,0,table 1    intervention.,False
+JPhysi_26701155,False,0,table 1    characteristic,False
+JPhysi_26701163,False,0,table 1    participant ch,False
+JPhysi_26701166,False,0,table 1    baseline chara,False
+JPhysi_26996093,False,0,table 1    baseline chara,False
+JPhysi_26996096,False,0,none,False
+JPhysi_27008910,False,0,table 1    baseline chara,False
+JPhysi_27025688,False,0,table 1    characteristic,False
+JPhysi_27298051,False,0,none,False
+JPhysi_27320828,False,0,table 1    baseline chara,False
+JPhysi_27320832,False,0,baseline characteristics,False
+JPhysi_27323934,False,0,table 1    intervention.,False
+JPhysi_27634158,False,0,table 1    baseline chara,False
+JPhysi_27637770,False,0,table 1    baseline chara,False
+JPhysi_27964962,False,0,participant characteristi,False
+JPhysi_27989730,True,3,baseline characteristics,False
+JPhysi_27993489,False,0,table 1    baseline chara,False
+JPhysi_28336297,False,0,table 1    baseline chara,False
+JPhysi_28342682,False,0,table 1    baseline chara,False
+JPhysi_28655559,False,0,table 1    baseline demog,False
+JPhysi_28662834,False,0,table 1    baseline chara,False
+JPhysi_28668558,False,0,baseline characteristics:,False
+JPhysi_28939307,False,0,table 1    pre-training e,False
+JPhysi_28970100,False,0,table 1    baseline chara,False
+JPhysi_29289579,False,0,table 1    baseline chara,False
+JPhysi_29289580,False,0,table 1    baseline chara,False
+JPhysi_29289583,False,0,table 1    participant ch,False
+JPhysi_29289590,False,0,none,False
+JPhysi_29574170,False,0,table 1    baseline chara,False
+JPhysi_29602750,False,0,participant characteristi,False
+JPhysi_29605522,False,0,none,False
+JPhysi_29903598,False,0,none,False
+JPhysi_29907335,False,0,none,False
+JPhysi_30217412,False,0,table 1    baseline chara,False
+JPhysi_30236471,False,0,table 1    functional cla,False
+JPhysi_30241913,False,0,table 1    primary outcom,False
+JPhysi_30581138,False,0,baseline characteristics,False
+JPhysi_30910563,True,6,none,True
+JPhysi_30910569,True,0,none,True
+JPhysi_30926400,False,0,baseline characteristics,False
+JPhysi_31204294,False,0,baseline characteristics,False
+JPhysi_31208916,False,0,none,False
+JPhysi_31227279,False,0,baseline characteristics,False
+JPhysi_31521551,False,0,baseline characteristics,False
+JPhysi_31521553,False,0,baseline characteristics,False
+JPhysi_31843420,False,0,baseline characteristics,False
+JPhysi_31843426,False,0,baseline characteristics,False
+JPhysi_31859153,False,0,baseline characteristics,False
+JPhysi_32291222,True,1,none,True
+JPhysi_32291223,False,0,none,False
+JPhysi_32660919,False,0,baseline characteristics,False
+JPhysi_32680742,False,0,participant characteristi,False
+JPhysi_32709590,False,0,baseline characteristics,False
+JPhysi_33069606,False,0,baseline characteristics,False
+JPhysi_33069608,False,0,table 1    description of,False
+JPhysi_33172627,False,0,participant characteristi,False
+JPhysi_33744191,False,0,baseline characteristics,False
+JPhysi_33757719,False,0,baseline characteristics,False
+JPhysi_34154951,True,0,baseline characteristics,True
+JPhysi_34518147,False,0,baseline characteristics,False
+JPhysi_34952812,False,0,baseline characteristics,False
+JPhysi_34952813,False,0,baseline characteristics,False
+JPhysi_35283051,False,0,none,False
+JPhysi_35396175,False,0,baseline characteristics,False
+JPhysi_35428594,False,0,baseline characteristics,False
+JPhysi_35753968,False,0,baseline characteristics,False
+JPhysi_35753969,False,0,baseline demographic char,False
+JPhysi_35760724,False,0,baseline characteristics,False
+JPhysi_36253280,False,0,"baseline characteristics,",False
+JPhysi_36257876,True,0,none,True
+JPhysi_36526555,True,0,none,True
+JPhysi_36526564,False,0,baseline demographic char,False
+JPhysi_36958977,False,0,baseline characteristics,False
+JPhysi_37277290,True,0,none,True
+JPhysi_37286390,False,0,baseline characteristics,False
+JPhysi_37684147,False,0,baseline characteristics,False
+JPhysi_38036399,False,0,baseline characteristics,False
+JPhysi_38049352,False,0,baseline characteristics,False
+JPhysi_38472049,False,0,baseline characteristics,False
+JPhysi_38494404,False,0,none,False
+JPhysi_38494405,False,0,baseline characteristics,False
+JPhysi_38902195,False,0,baseline characteristics,False
+JPhysi_39327170,False,0,baseline characteristics,False
+JPhysi_39327172,False,0,baseline characteristics,False
+Muscul_28219804,True,2,baseline characteristics,True
+Muscul_28324697,False,1,baseline demographics and,False
+Muscul_28854396,True,4,baseline demographics of,False
+Muscul_28869199,True,8,none,True
+Muscul_28888207,False,0,participant characteristi,False
+Muscul_29414757,False,1,table 1    baseline chara,False
+Muscul_29864710,True,5,table 1    participants c,True
+Muscul_30342295,False,2,table 1    inclusion crit,False
+Muscul_30359870,True,11,table 1    within- and be,False
+Muscul_30909110,True,6,table 1    demographic ch,True
+Muscul_31075730,True,0,table 1    inclusion crit,True
+Muscul_31176287,False,0,participant characteristi,False
+Muscul_31352178,True,8,table 1    participants c,False
+Muscul_31472414,True,0,table 1    participants c,True
+Muscul_31493695,False,0,participant characteristi,False
+Muscul_31605983,True,0,table 1    baseline chara,True
+Muscul_31655314,False,0,table 1    baseline chara,False
+Muscul_31739206,True,0,table 1    anthropometric,True
+Muscul_31989965,True,0,table 1    baseline chara,True
+Muscul_31999615,False,0,table 1    number of subj,False
+Muscul_32148330,False,0,participant characteristi,False
+Muscul_32217274,True,0,table 1    mean values (s,True
+Muscul_32217275,True,0,"table 1    demographic, i",True
+Muscul_32560872,True,5,table 1    inclusion and,True
+Muscul_32861358,False,0,table 1    protocol to my,False
+Muscul_32861359,False,0,table 1    baseline chara,False
+Muscul_32861372,True,0,table 1    demographic an,True
+Muscul_32871529,True,6,table 1    subject demogr,True
+Muscul_32920228,True,0,table 1    case vignette,True
+Muscul_32932051,True,0,table 1    demographic ch,True
+Muscul_33068901,True,0,table 1    summary of bas,True
+Muscul_33257276,True,5,none,True
+Muscul_33582621,True,0,table 1    details of the,True
+Muscul_33831698,True,0,table 1    inclusion and,True
+Muscul_33930856,False,1,table 1    descriptive st,False
+Muscul_33989990,True,0,table 1    baseline demog,True
+Muscul_34022750,True,0,table 1    schedule of st,True
+Muscul_34147954,True,1,table 1    description of,True
+Muscul_34186473,False,0,table 1    inclusion and,False
+Muscul_34375855,False,0,table 1    characteristic,False
+Muscul_34450361,True,0,table 1    characteristic,True
+Muscul_34507046,True,6,table 1    demographic an,True
+Muscul_34509820,False,0,table 1    variables in s,False
+Muscul_34872042,False,0,table 1    inclusion and,False
+Muscul_34953290,False,0,table 1    inclusion and,False
+Muscul_35085999,False,0,table 1    baseline chara,False
+Muscul_35421696,False,0,table 1    outcome data.,False
+Muscul_35780637,False,0,table 1    intervention p,False
+Muscul_35944447,False,0,table 1    baseline demog,False
+Muscul_35952621,True,0,table 1    baseline socio,True
+Muscul_36037744,True,4,table 1    demographic ch,True
+Muscul_36088783,False,0,baseline characteristics,False
+Muscul_36332333,False,0,"table 1    demographics,",False
+Muscul_36370624,False,0,table 1    information on,False
+Muscul_36414518,False,0,table 1    demographic an,False
+Muscul_36577592,False,0,table 1    demographics o,False
+Muscul_36732139,False,1,table 1    anthropometric,False
+Muscul_36878140,False,0,table 1    baseline chara,False
+Muscul_36924579,False,0,table 1    participants’,False
+Muscul_36948043,False,0,table 1    key study char,False
+Muscul_37141771,True,0,table 1    morphologic an,True
+Muscul_37269590,False,0,table 1    demographic ch,False
+Muscul_37331257,False,0,table 1    baseline demog,False
+Muscul_37394322,True,0,table 1    descriptive st,True
+Muscul_37421759,False,0,table 1    sample charact,False
+Muscul_37572618,False,0,table 1    intervention c,False
+Muscul_37847947,True,0,table 1    baseline demog,True
+Muscul_37926065,False,0,table 1    progression cr,False
+Muscul_38064954,False,0,table 1    participant ch,False
+Muscul_38070465,False,0,table 1    the content of,False
+Muscul_38157759,True,3,table 1    sociodemograph,False
+Muscul_38330866,False,0,table 1    participants',False
+Muscul_38513337,False,0,table 1    baseline demog,False
+Muscul_38547548,True,0,table 1    baseline chara,True
+Muscul_38631273,True,0,table 1    schroth exerci,True
+Muscul_38805905,True,0,table 1    participant de,True
+Muscul_39047592,True,11,table 1    demographics o,True
+Muscul_39116761,False,0,table 1    participant de,False
+Muscul_39182326,True,35,table 1    baseline chara,True
+Muscul_39217854,False,0,baseline characteristics,False
+Muscul_39241692,False,0,table 1    a priori feasi,False
+Muscul_39260006,False,0,table 1    demographic an,False
+Muscul_39520770,False,1,table 1    baseline demog,False
+PhysTh_25212518,False,0,table 1. the six-minute w,False
+PhysTh_25212521,False,0,participant characteristi,False
+PhysTh_25234274,False,0,table 1 shows a detailed,False
+PhysTh_25278336,False,0,none,False
+PhysTh_25301965,False,0,table 1. characteristics,False
+PhysTh_25359444,True,0,table 1. predictive value,True
+PhysTh_25413621,False,0,table 1. demographic data,False
+PhysTh_25504483,True,0,none,True
+PhysTh_25504487,False,0,table 1. baseline charact,False
+PhysTh_25592188,False,0,table 1. characteristics,False
+PhysTh_25655878,False,0,table 1. participants’ ch,False
+PhysTh_25655884,False,0,table 1. characteristics,False
+PhysTh_25858972,False,0,table 1. pabs-pt and hc-p,False
+PhysTh_25858974,True,16,none,True
+PhysTh_25929529,False,0,table 1. baseline charact,False
+PhysTh_25929530,True,0,none,True
+PhysTh_25929531,True,0,none,True
+PhysTh_26023213,False,0,table 1. eligibility crit,False
+PhysTh_26023217,False,0,table 1. characteristics,False
+PhysTh_26183588,False,0,table 1 contains further,False
+PhysTh_26206217,False,0,table 1. the informants a,False
+PhysTh_26251480,False,0,table 1. multimodal spine,False
+PhysTh_26294680,False,0,table 1. time line for th,False
+PhysTh_26472295,False,0,table 1. participant char,False
+PhysTh_26472297,False,0,table 1 shows the outcome,False
+PhysTh_26494768,False,0,baseline characteristics,False
+PhysTh_26586860,False,0,table 1.  clinical impres,False
+PhysTh_26586865,False,0,table 1.37  randomization,False
+PhysTh_26678445,False,0,table 1. baseline charact,False
+PhysTh_26847007,False,0,table 1. characteristics,False
+PhysTh_26893507,False,0,table 1 compares the cont,False
+PhysTh_26916927,False,0,"baseline characteristics,",False
+PhysTh_27013576,True,11,table 1). both groups sho,False
+PhysTh_27103222,False,0,table 1. baseline v̇o2pea,False
+PhysTh_27417167,False,0,table 1. intensive interv,False
+PhysTh_28201821,False,0,table 1. eligibility will,False
+PhysTh_28204740,False,0,table 1. descriptive char,False
+PhysTh_28339847,False,0,table 1. volunteers will,False
+PhysTh_28371936,False,1,table 1). the task-specif,False
+PhysTh_28371942,False,0,table 1 below.  setting a,False
+PhysTh_28789465,True,0,none,True
+PhysTh_28789467,True,3,baseline characteristics,False
+PhysTh_28789468,True,57,none,False
+PhysTh_28789469,False,0,none,False
+PhysTh_28969350,True,3,table 1. prior to control,False
+PhysTh_29077924,True,1,baseline characteristics,True
+PhysTh_29077960,False,1,baseline characteristics,False
+PhysTh_29077963,False,0,table 1. physical examina,False
+PhysTh_29088393,False,0,table 1 outlines the base,False
+PhysTh_29186633,False,0,table 1. characteristics,False
+PhysTh_29186635,False,0,table 1. some differences,False
+PhysTh_29351646,False,2,participant characteristi,False
+PhysTh_29608733,False,0,participant characteristi,False
+PhysTh_29669079,True,10,baseline characteristics,True
+PhysTh_29669086,False,1,participant characteristi,False
+PhysTh_29767802,False,0,table 1. intervention ele,False
+PhysTh_29788253,False,0,participant characteristi,False
+PhysTh_29893977,False,0,table 1. participant char,False
+PhysTh_30247715,False,1,"table 1. however, to incr",False
+PhysTh_30329105,False,1,participant characteristi,False
+PhysTh_30329136,True,0,baseline demographic and,True
+PhysTh_30657995,True,0,table 1. demographic and,True
+PhysTh_30690546,True,5,baseline demographic data,False
+PhysTh_30690609,True,3,baseline characteristics,False
+PhysTh_30715489,True,4,table 1 shows attendance,False
+PhysTh_30810750,False,0,table 1 lists participant,False
+PhysTh_30921466,True,20,participant characteristi,False
+PhysTh_30939188,True,9,table 1. no relevant diff,False
+PhysTh_31155667,False,0,table 1 presents the part,False
+PhysTh_31197369,False,0,table 1. baseline demogra,False
+PhysTh_31309977,False,0,baseline characteristics,False
+PhysTh_31392990,False,0,baseline characteristics,False
+PhysTh_31504897,False,1,table 1.  29  a  0.29 0.,False
+PhysTh_31899491,False,0,table 1 shows the partici,False
+PhysTh_31899499,False,0,table 1 https://academic.,False
+PhysTh_31944250,True,4,table 1 shows the charact,False
+PhysTh_31944251,False,1,baseline characteristics,False
+PhysTh_31944252,True,4,table 1 presents the base,False
+PhysTh_31951260,True,3,baseline characteristics,False
+PhysTh_31998949,False,2,baseline characteristics,False
+PhysTh_32043148,False,0,baseline characteristics,False
+PhysTh_32206812,False,0,table 1 lists the differe,False
+PhysTh_32329780,True,9,baseline characteristics,False
+PhysTh_32525975,False,0,table 1 shows the complet,False
+PhysTh_32542356,False,0,table 1. baseline partici,False
+PhysTh_32556249,False,0,baseline characteristics,False
+PhysTh_32990311,False,0,table 1. participant char,False
+PhysTh_33336703,True,3,participant characteristi,False
+PhysTh_33373445,True,13,baseline characteristics,False
+PhysTh_33561279,True,24,none,False
+PhysTh_33611503,True,3,baseline characteristics,False
+PhysTh_33611557,False,0,participant characteristi,False
+PhysTh_33625515,False,0,table 1 displays sample c,False
+PhysTh_33792726,True,4,baseline characteristics,False
+PhysTh_33823028,False,0,table 1 shows baseline ch,False
+PhysTh_33877325,False,0,table 1. all participants,False
+PhysTh_33909896,True,13,table 1. all study partic,False
+PhysTh_34216139,True,7,table 1 shows that percei,True
+PhysTh_34244805,False,0,table 1. those averaging,False
+PhysTh_34331766,False,0,"baseline characteristics,",False
+PhysTh_34459493,False,0,baseline characteristics,False
+PhysTh_34473304,False,0,"baseline characteristics,",False
+PhysTh_34499174,False,0,demographic and clinical,False
+PhysTh_34935979,False,2,table 1. baseline demogra,False
+PhysTh_34972869,False,0,table 1. dual-task progra,False
+PhysTh_35079831,True,7,table 1. no significant d,True
+PhysTh_35084038,True,2,table 1.  adherence and a,True
+PhysTh_35194646,True,10,none,False
+PhysTh_35258595,True,2,table 1. clinical and dem,True
+PhysTh_35485186,False,0,table 1. characterization,False
+PhysTh_35554601,False,0,table 1. comparison of de,False
+PhysTh_35670001,True,7,table 1 details demograph,False
+PhysTh_35689805,False,0,table 1. demographic char,False
+PhysTh_35778941,False,1,demographic and clinical,False
+PhysTh_36209432,False,0,table 1. the outcome meas,False
+PhysTh_37104630,False,0,"baseline characteristics,",False
+PhysTh_37318279,False,0,demographic and clinical,False
+PhysTh_37341580,False,0,table 1. exercise protoco,False
+PhysTh_37347984,True,4,table 1 lists the baselin,False
+PhysTh_37364044,False,0,participant characteristi,False
+PhysTh_37478463,False,0,demographic and clinical,False
+PhysTh_37548608,False,2,table 1. characteristics,False
+PhysTh_37658773,False,0,demographic and clinical,False
+PhysTh_37941491,False,0,table 1 were considered s,False
+PhysTh_37980613,False,0,table 1. functional near-,False
+PhysTh_38102757,False,2,table 1. baseline demogra,False
+PhysTh_38181396,True,4,baseline characteristics,False
+PhysTh_38206881,True,0,none,True
+PhysTh_38484092,False,0,table 1 lists the collect,False
+PhysTh_38498321,False,0,table i. the local exerci,False
+PhysTh_38507659,False,0,table 1. semi-structured,False
+PhysTh_39001713,False,0,table 1. physical activit,False
+PhysTh_39223953,True,6,table 1 for demographic c,False
+PhysTh_39423256,True,4,baseline characteristics,False
+PhysTh_39704300,False,0,table 1. participants wer,False
+PhysTh_39704301,False,0,participant characteristi,False
+Physio_25280603,False,0,baseline characteristics,False
+Physio_25280604,True,3,table 1    baseline chara,False
+Physio_25306231,False,0,table 1    mean [standard,False
+Physio_25442673,False,0,none,False
+Physio_25544594,False,0,table 1    satisfaction w,False
+Physio_25724322,False,0,table 1    intended effec,False
+Physio_25749494,True,4,table 1    treatment tech,False
+Physio_25749495,False,0,table 1    baseline demog,False
+Physio_26051846,False,0,table 1    demographic ch,False
+Physio_26111989,False,0,table 1    demographic ch,False
+Physio_26383695,False,0,baseline characteristics,False
+Physio_26395209,False,0,table 1    baseline chara,False
+Physio_26435334,False,0,table 1 )    secondary ou,False
+Physio_26712530,False,1,table 1    patients’ char,False
+Physio_27012822,False,0,table 1    count interval,False
+Physio_27012824,False,0,table 1    mean (standard,False
+Physio_27107979,False,0,table 1    baseline chara,False
+Physio_27112096,False,0,table 1    baseline chara,False
+Physio_27126617,True,0,table 1    demographic da,True
+Physio_27569662,False,0,baseline characteristics,False
+Physio_27615515,False,0,table 1    inclusion and,False
+Physio_27637736,True,0,none,True
+Physio_27884499,False,1,table 1    table showing,False
+Physio_27914651,False,0,table 1    baseline demog,False
+Physio_27956033,False,0,table 1    median (iqr) o,False
+Physio_28797666,False,0,table 1    case study vig,False
+Physio_28801033,False,0,table 1    exercise presc,False
+Physio_28801034,True,0,table 1    overall change,True
+Physio_28802772,False,0,table 1    physical activ,False
+Physio_28818450,False,0,table 1    summary of phy,False
+Physio_28818451,False,0,table 1    key characteri,False
+Physio_28826745,True,0,table 1    participant de,True
+Physio_28917523,True,0,table 1    descriptive da,True
+Physio_28935227,False,0,baseline characteristics,False
+Physio_29352578,False,0,table 1    participant de,False
+Physio_29361297,False,0,participant characteristi,False
+Physio_29373113,False,0,table 1    results of ult,False
+Physio_30031553,False,0,table 1    summary of the,False
+Physio_30269963,False,0,baseline characteristics,False
+Physio_30316547,False,0,table 1    clinical featu,False
+Physio_30316548,False,0,table 1    baseline chara,False
+Physio_30318128,False,0,baseline characteristics,False
+Physio_30348455,False,0,table 1    mean (standard,False
+Physio_30477678,False,0,table 1    baseline chara,False
+Physio_30630622,False,0,table 1    demographic da,False
+Physio_30862384,False,0,table 1    subject baseli,False
+Physio_30871894,False,0,table 1    patient charac,False
+Physio_30930051,False,0,table 1    characteristic,False
+Physio_30935673,False,0,table 1    schedule and c,False
+Physio_30979507,False,0,table 1    baseline chara,False
+Physio_31204031,True,0,table 1    mean values (s,True
+Physio_31992445,False,0,table 1    demographic ch,False
+Physio_32026820,False,0,baseline characteristics,False
+Physio_32026826,False,0,table 1    baseline chara,False
+Physio_32026827,False,0,table 1    overview of gr,False
+Physio_32026829,False,0,table 1    a summary of t,False
+Physio_32026836,False,0,table 1    participants’,False
+Physio_32026838,False,0,table 1    baseline chara,False
+Physio_32026839,False,0,table 1    characteristic,False
+Physio_32026844,False,1,table 1    demographic da,False
+Physio_32026846,False,0,table 1    key papers use,False
+Physio_32430189,False,0,table 1    demographic da,False
+Physio_32707289,False,0,table 1    baseline descr,False
+Physio_32718746,False,0,table 1    baseline chara,False
+Physio_33131786,True,0,table 1    inclusion crit,True
+Physio_33153764,True,0,none,True
+Physio_33316867,True,0,none,True
+Physio_33563372,False,0,table 1    pep and efa gr,False
+Physio_33785196,False,0,table 1 for sources and m,False
+Physio_34052569,False,0,table 1    intervention d,False
+Physio_34058616,False,0,table 1    baseline chara,False
+Physio_34555671,True,0,table 1    demographic da,True
+Physio_35101723,False,0,table 1    baseline chara,False
+Physio_35101724,False,1,table 1    baseline demog,False
+Physio_35452918,False,0,"table 1    primary, pretr",False
+Physio_35452919,False,0,participant characteristi,False
+Physio_35462214,False,0,table 1    baseline chara,False
+Physio_35550486,False,0,table 1    participant de,False
+Physio_36219918,False,0,table 1    baseline demog,False
+Physio_36242928,False,0,table 1    baseline chara,False
+Physio_36244275,True,4,table 1    demographic an,True
+Physio_36266133,False,0,table 1    baseline chara,False
+Physio_38244486,True,4,table 1    exclusion crit,False
+Physio_38266395,False,0,participant characteristi,False
+Physio_38447497,False,0,table 1    description of,False
+Physio_38479068,False,0,baseline characteristics,False
+Physio_38490073,False,0,table 1    characteristic,False
+Physio_38870622,False,0,table 1    intervention d,False
+Physio_38875838,False,0,table 1    inclusion and,False
+Physio_38875839,False,0,table 1    baseline parti,False
+Physio_38875842,False,0,table 1    baseline chara,False

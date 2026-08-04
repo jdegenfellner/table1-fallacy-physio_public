@@ -1,0 +1,265 @@
+pmcid,status,eligible,exclude_reason,baseline_testing,testing_form,n_vars_tested,n_vars_significant,n_randomised,coder,verified_by_human,notes
+PMC11586087,ok,False,secondary,,,,,292,auto,False,process evaluation of stepped-wedge trial
+PMC12104018,fetch_failed,,,,,,,,auto,False,BioC returned API docs -> needs PDF
+PMC9510936,ok,False,secondary,,,,,320,auto,False,mediation secondary analysis
+PMC7484246,ok,True,,True,tabular,5,0,40,auto,False,'no differences in any demographics between groups at enrollment (Table 1)'
+PMC8612274,ok,False,protocol,,,,,43,auto,False,intervention development/protocol (ARTISAN)
+PMC11528975,ok,True,,True,narrative,9,0,40,auto,False,'differences were not statistically significant'
+PMC11528976,ok,True,,False,none,0,0,145,auto,False,"'no relevant differences' - descriptive, no test"
+PMC11374483,fetch_failed,,,,,,,,auto,False,BioC returned API docs -> needs PDF
+PMC11069437,fetch_failed,,,,,,,,auto,False,BioC returned API docs -> needs PDF
+PMC10843168,ok,True,,False,none,0,0,50,auto,False,"descriptive Table 2, no tests"
+PMC11672065,ok,True,,True,tabular,27,0,87,auto,False,"'groups considered similar... (table 2)', p 0.29-1.0"
+PMC11420712,ok,True,,False,none,0,0,76,auto,False,"baseline table, no p-values"
+PMC11913609,ok,False,secondary,,,,,118,auto,False,"long-term follow-up; chi2/t-test was completer-vs-dropout, not between-arm"
+PMC11365697,ok,False,secondary,,,,,978,auto,False,secondary analysis of STEMS pilot
+PMC10851856,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC10939334,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC10824628,ok,True,,False,none,0,0,59,auto,False,"CORRECTED: used standardized differences (SMD), not significance tests -> not the fallacy"
+PMC10802992,ok,True,,True,tabular,8,1,70,auto,False,REACT; MoCA p=.04 significant in Table 1
+PMC10740005,ok,False,secondary,,,,,208,auto,False,"secondary analysis, trajectory classes"
+PMC10683042,ok,True,,False,none,0,0,33,auto,False,"pilot RCT groin pain; descriptive Table 2, no tests"
+PMC10851843,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC10630612,ok,True,,True,narrative,11,0,166,auto,False,"BORDERLINE: 'No significant intergroup differences at baseline' (test implied, no p-values)"
+PMC10471202,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC10476875,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC10476876,ok,True,,False,none,0,0,201,auto,False,"CORRECTED: bare 'similar in both arms', no test claim -> not the fallacy"
+PMC10071485,ok,False,design,,,,,292,auto,False,"stepped-wedge cluster trial -> excluded by design (note: DID test, Mann-Whitney, 2 sig)"
+PMC10071580,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC9396452,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC8565332,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC8520021,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC8136304,ok,True,,False,none,0,0,214,auto,False,"abdominal surgery mobilisation 3-arm; descriptive Table 1, no tests"
+PMC8122468,ok,True,,False,none,0,0,55,auto,False,"BORDERLINE: 'similar except time since stroke higher' - descriptive, no test/p-value"
+PMC8101354,ok,True,,False,none,0,0,79,auto,False,"'no apparent differences at baseline', descriptive"
+PMC7910024,ok,True,,True,tabular,18,0,134,auto,False,START-Play; p-values in Table 2 footnotes (complex: severity-level sig); flag verify
+PMC8325107,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC7720638,ok,False,design,,,,,23,auto,False,qualitative interview study nested in RCT -> excluded
+PMC7530577,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC7439225,ok,True,,False,none,0,0,100,auto,False,"axial SpA exercise; Table 1 descriptive, Table 2 p-values are OUTCOMES not baseline"
+PMC7498164,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC7439228,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC6821226,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC6735838,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC6545273,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC6665875,ok,True,,False,none,0,0,118,auto,False,"lumbar fusion prehab; descriptive Table 1, no tests"
+PMC6736423,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC6665948,ok,True,,False,none,0,0,80,auto,False,GroupCoreDIST MS balance; 'similar' no test claim
+PMC6383710,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC6692706,fetch_failed,,,,,,,,auto,False,BioC API docs -> needs PDF
+PMC6016690,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6692845,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6692704,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5963302,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5803786,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7207326,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6075074,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6075557,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6074832,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5803757,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5804017,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6257067,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5046191,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4774389,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4595813,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4556954,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4528015,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4348714,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4295083,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5388063,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC13255525,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5840509,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11528962,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11520259,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11348637,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11059830,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11005303,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC10898201,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9912309,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9912301,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9912302,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9676414,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9574032,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9420890,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9354061,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9420547,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9047665,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9082975,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9082976,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9189718,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9082965,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8941719,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8524683,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9009357,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8495317,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8495310,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8193604,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8369904,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8273535,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8273536,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8193589,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8191155,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8191163,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8191146,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8073872,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7944428,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7944432,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7874370,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7874382,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7874373,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7814096,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7649953,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7649921,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7469713,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7477776,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7372581,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7372590,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7372589,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7350199,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7376619,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7263039,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7132435,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7029437,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7029439,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6943962,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6787762,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6716206,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6613172,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6585159,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6613174,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6348459,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6311618,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5971370,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5987849,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6088453,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5952298,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5777545,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5777543,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5751852,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5751850,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5524188,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4976656,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4976658,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4976660,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5347360,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5405852,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5349317,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5302124,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5052695,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4767143,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4390524,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11409922,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC10840126,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC10330502,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC10611896,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9637747,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8971138,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC12761790,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8702566,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8642492,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC12323590,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11840937,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8263505,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8184573,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC12993736,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7796862,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11047263,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9105798,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5813708,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4674291,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11347971,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11103335,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC11103308,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC10982631,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC10982628,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9985750,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9985722,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9872245,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9872240,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9252858,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC9163714,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8483923,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8899479,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8938653,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8685656,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8020080,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC8070614,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7788208,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7873414,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7907578,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7606577,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7907566,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7788191,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7456671,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7361017,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7212930,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC7146941,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6900232,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6585273,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC6579489,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5867421,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5754848,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5530334,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5754846,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5654748,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5136709,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5036255,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5099231,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5867438,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4853529,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4717407,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4853531,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4508129,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC4318691,fetch_failed,,,,,,,,auto,False,prefilter: not in BioC OA -> needs PDF
+PMC5993213,ok,False,secondary,,,,,35,auto,False,ancillary analysis of feasibility RCT; Table 1 = completers vs dropouts
+PMC5639712,ok,False,secondary,,,,,143,auto,False,planned secondary analysis; Table 1 = included vs excluded
+PMC4889512,ok,True,,False,none,0,0,35,auto,False,CORRECTED: extractor's sig p-values are OUTCOMES (Table 2); no baseline test claim
+PMC4558346,ok,True,,False,none,0,0,26,auto,False,"CORRECTED: RELOAD TKA; 'comparable (Table 2)', sig p's are outcomes not baseline"
+PMC6196716,ok,False,design,,,,,53,auto,False,"observational gait biomechanics, not an RCT (cross-sectional stable vs unstable)"
+PMC4789758,ok,True,,True,both,15,0,78,auto,False,3-arm shoulder; 'comparisons...no differences...(P>.05)'
+PMC10492431,ok,True,,False,none,0,0,48,auto,False,"sport climbing; 'well-matched' bare, no test claim"
+PMC10426253,ok,True,,True,tabular,22,1,116,auto,False,"headache exercise; explicit p-values Table 1, light PA p=.03"
+PMC10387727,ok,False,design,,,,,374,auto,False,"BRIDGE stepped-wedge cluster -> excluded (note: DID test, 3 sig)"
+PMC10291369,ok,False,design,,,,,27,auto,False,randomised crossover trial -> excluded
+PMC10041575,ok,True,,True,tabular,16,0,204,auto,False,TEAS stroke; Table 1 p-values all >0.05
+PMC10416755,ok,True,,True,both,8,0,38,auto,False,ACC vs SS walking; 'did not differ significantly (p>0.05) for...'
+PMC7311185,ok,True,,True,both,6,0,20,auto,False,"aerobic vs control; 'no statistical difference in baseline characteristics', Table 1 p-values"
+PMC6625754,ok,True,,False,none,0,0,34,auto,False,BORDERLINE: 'comparable at baseline except higher grade II tumours' - no p-value/'significant'
+PMC5748372,ok,True,,True,tabular,7,1,48,auto,False,"3-arm treadmill stroke; Table 1 p-values, ankle bracing p=0.026"
+PMC8637964,ok,True,,True,both,10,0,22,auto,False,"home PT older adults; 'No significant differences...at baseline', p-values"
+PMC4746107,ok,True,,False,none,0,0,254,auto,False,UNCERTAIN: TASK II caregivers; chi2/t-tests mentioned but no clear baseline-table test shown -> verify
+PMC4976443,ok,False,secondary,,,,,352,auto,False,secondary analysis of LEAPS trial
+PMC10247388,ok,True,,True,tabular,9,1,27,auto,False,"FES-rowing SCI; Student t-test baseline, height p=0.044"
+PMC10039715,ok,True,,False,none,0,0,34,auto,False,"CORRECTED: PUSH/PULSE; 'comparable' bare, means/SD only no p-values"
+PMC7103502,ok,False,secondary,,,,,44,auto,False,"secondary analysis of two RCTs (note: had baseline p-values, 6MWT p=0.01)"
+PMC8594144,ok,False,secondary,,,,,48,auto,False,secondary analysis of two RCTs
+PMC6487221,ok,True,,True,tabular,14,0,63,auto,False,"VR vs HEP TBI; 'did not differ significantly on any...measures', sex p=.0697"
+PMC6948105,ok,True,,False,none,0,0,40,auto,False,"CORRECTED: ADSTEP MS; 'well matched' bare, cited sig p's are OUTCOMES (sitting time)"
+PMC6215727,ok,True,,True,both,9,0,38,auto,False,"amputee behavior-change pilot; Table 2 p-values, all >=0.20"
+PMC6064386,ok,False,secondary,,,,,1218,auto,False,secondary analysis of MATCH trial (usual-care subset)
+PMC6092257,ok,True,,True,tabular,4,0,45,auto,False,COMBEX vs SOC burns; 'did not significantly differ (p>0.05)'
+PMC5970960,ok,True,,True,tabular,11,1,18,auto,False,COMBEX vs DAYEX burns kids; LOS p=0.0004 sig
+PMC5660940,ok,True,,True,tabular,17,0,23,auto,False,resistance vs assistance CP; 'no significant differences...'
+PMC5660931,ok,False,secondary,,,,,86,auto,False,secondary analysis (mindfulness subgroups) of Tai Chi vs PT trial
+PMC5571447,ok,False,secondary,,,,,153,auto,False,cross-sectional analysis of pretreatment RCT data; Table 1 complete vs missing
+PMC5812739,ok,True,,True,tabular,15,0,54,auto,False,"intervention vs waitlist TBI; chi2/t-test baseline, all NS"
+PMC5368028,ok,True,,True,tabular,11,0,43,auto,False,direct vs guided stroke; 'No differences detected...baseline (Table 1)'
+PMC5083166,ok,False,secondary,,,,,351,auto,False,UNCERTAIN: MeTeOR; described as secondary analysis (325/351); baseline_testing was NO -> verify
+PMC5276727,ok,False,design,,,,,295,auto,False,"cross-sectional study using PAL trial data (bench/handgrip), not RCT"
+PMC7707852,ok,True,,True,tabular,13,1,47,auto,False,AC vs ET HFpEF; 'no significant differences...Only VT (P=0.04)'
+PMC5183463,ok,False,secondary,,,,,1635,auto,False,"LIFE study secondary analysis (predictors of change), 'baseline...reported previously'"
+PMC5002381,ok,True,,True,both,6,1,37,auto,False,FAST vs FAST+SAM; 'no sig differences...except total time walking (p=0.025)'
+PMC4844795,ok,True,,True,tabular,10,0,23,auto,False,"gait observation PD; 'no group differences in age, education...' ns columns"
+PMC4600403,ok,True,,True,both,9,0,232,auto,False,hip fracture exercise; 'No significant differences...between the two groups'
+PMC4526239,ok,False,design,,,,,104,auto,False,"validation cohort, single group within-subject conditions, not RCT"
+PMC4380548,ok,False,design,,,,,9,auto,False,crossover study
+PMC4339481,ok,False,design,,,,,12,auto,False,crossover study
+PMC4339489,ok,False,design,,,,,13,auto,False,crossover trial
+PMC4850731,ok,True,,True,tabular,14,0,40,auto,False,motor learning vs standard; 'similar on all health and demographic...(Table 1)' p>0.05
+PMC4394027,ok,True,,True,tabular,10,0,42,auto,False,"WEBS vs TC; Table 1 p-values, 'similar...measures' all >0.05"
+PMC4380609,ok,True,,True,tabular,8,0,19,auto,False,rTMS/mCIMT children; 'No statistically significant differences...at baseline'
+PMC4433162,ok,True,,True,tabular,9,0,51,auto,False,POWIR vs FLEX cancer; Table 1 p-values all >.05
+PMC10579183,ok,True,,False,none,0,0,180,auto,False,"plantar fasciopathy 3-arm; Table 1 descriptive only, no p-values/test claim"
+PMC10439263,ok,False,secondary,,,,,200,auto,False,"SExSI secondary analysis (pain mechanism), characteristics 'described elsewhere'"
+PMC10176369,ok,False,design,,,,,167,auto,False,two-arm cluster RCT (rugby teams)
+PMC6686188,ok,True,,True,tabular,60,0,121,auto,False,estrogen 3-arm BMD; ANOVA 'did not differ among randomisation groups' all p>0.05
